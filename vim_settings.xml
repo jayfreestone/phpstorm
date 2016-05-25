@@ -1,0 +1,206 @@
+<application>
+  <component name="VimSettings">
+    <state version="4" enabled="true" />
+    <globalmarks />
+    <filemarks>
+      <file name="$USER_HOME$/Sites/DamascusRoad/wp-content/themes/damascus/src/js/partials/_pjax.js" timestamp="1464193354127">
+        <mark key="[" line="2" column="14" />
+        <mark key="]" line="2" column="18" />
+        <mark key="." line="2" column="18" />
+        <mark key="^" line="2" column="18" />
+      </file>
+      <file name="$USER_HOME$/Sites/DamascusRoad/wp-content/themes/damascus/page-contact.php" timestamp="1464190418295">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="67" />
+        <mark key="." line="4" column="0" />
+        <mark key="^" line="4" column="59" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.js" timestamp="1464187570496">
+        <mark key="[" line="0" column="21" />
+        <mark key="]" line="0" column="21" />
+        <mark key="^" line="0" column="21" />
+        <mark key="." line="0" column="21" />
+      </file>
+      <file name="$USER_HOME$/Sites/DamascusRoad/wp-content/themes/damascus/front-page.php" timestamp="1464189377602">
+        <mark key="[" line="39" column="0" />
+        <mark key="]" line="39" column="32" />
+        <mark key="^" line="38" column="45" />
+        <mark key="." line="39" column="32" />
+      </file>
+      <file name="$USER_HOME$/Sites/DamascusRoad/wp-content/themes/damascus/page.php" timestamp="1464189060447">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
+      </file>
+      <file name="$USER_HOME$/Sites/DamascusRoad/wp-content/themes/damascus/src/js/partials/_lightbox.js" timestamp="1464193323024">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Sites/DamascusRoad/wp-content/themes/damascus/functions.php" timestamp="1464192053432">
+        <mark key="'" line="177" column="57" />
+        <mark key="[" line="175" column="57" />
+        <mark key="]" line="175" column="58" />
+        <mark key="^" line="141" column="4" />
+        <mark key="." line="175" column="58" />
+      </file>
+      <file name="$USER_HOME$/Sites/DamascusRoad/wp-content/themes/damascus/src/js/partials/_lazySizes.js" timestamp="1464193207947">
+        <mark key="[" line="5" column="15" />
+        <mark key="]" line="6" column="1" />
+        <mark key="." line="6" column="1" />
+        <mark key="^" line="6" column="1" />
+      </file>
+      <file name="$USER_HOME$/Sites/DamascusRoad/wp-content/themes/damascus/src/js/partials/_grid.js" timestamp="1464193299761">
+        <mark key="'" line="11" column="12" />
+        <mark key="[" line="5" column="6" />
+        <mark key="]" line="5" column="6" />
+        <mark key="." line="5" column="6" />
+        <mark key="^" line="5" column="6" />
+      </file>
+      <file name="$USER_HOME$/Sites/DamascusRoad/wp-content/themes/damascus/header.php" timestamp="1464191838907">
+        <mark key="'" line="24" column="17" />
+        <mark key="[" line="22" column="0" />
+        <mark key="]" line="22" column="0" />
+        <mark key="." line="22" column="0" />
+      </file>
+      <file name="$USER_HOME$/Sites/DamascusRoad/wp-content/themes/damascus/page-events.php" timestamp="1464189036932">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
+      </file>
+    </filemarks>
+    <jumps>
+      <jump line="19" column="57" filename="$USER_HOME$/Sites/DamascusRoad/wp-content/themes/damascus/header.php" />
+      <jump line="13" column="76" filename="$USER_HOME$/Sites/DamascusRoad/wp-content/themes/damascus/header.php" />
+      <jump line="3" column="10" filename="$USER_HOME$/Sites/DamascusRoad/wp-content/themes/damascus/src/js/partials/_grid.js" />
+      <jump line="6" column="12" filename="$USER_HOME$/Sites/DamascusRoad/wp-content/themes/damascus/src/js/partials/_grid.js" />
+      <jump line="20" column="28" filename="$USER_HOME$/Sites/DamascusRoad/wp-content/themes/damascus/header.php" />
+      <jump line="8" column="0" filename="$USER_HOME$/Sites/DamascusRoad/wp-content/themes/damascus/header.php" />
+      <jump line="158" column="9" filename="$USER_HOME$/Sites/DamascusRoad/wp-content/themes/damascus/functions.php" />
+      <jump line="200" column="0" filename="$USER_HOME$/Sites/DamascusRoad/wp-content/themes/damascus/functions.php" />
+      <jump line="190" column="0" filename="$USER_HOME$/Sites/DamascusRoad/wp-content/themes/damascus/functions.php" />
+      <jump line="179" column="0" filename="$USER_HOME$/Sites/DamascusRoad/wp-content/themes/damascus/functions.php" />
+      <jump line="173" column="0" filename="$USER_HOME$/Sites/DamascusRoad/wp-content/themes/damascus/functions.php" />
+      <jump line="24" column="17" filename="$USER_HOME$/Sites/DamascusRoad/wp-content/themes/damascus/header.php" />
+      <jump line="153" column="15" filename="$USER_HOME$/Sites/DamascusRoad/wp-content/themes/damascus/functions.php" />
+      <jump line="203" column="0" filename="$USER_HOME$/Sites/DamascusRoad/wp-content/themes/damascus/functions.php" />
+      <jump line="193" column="0" filename="$USER_HOME$/Sites/DamascusRoad/wp-content/themes/damascus/functions.php" />
+      <jump line="182" column="0" filename="$USER_HOME$/Sites/DamascusRoad/wp-content/themes/damascus/functions.php" />
+      <jump line="180" column="0" filename="$USER_HOME$/Sites/DamascusRoad/wp-content/themes/damascus/functions.php" />
+      <jump line="176" column="0" filename="$USER_HOME$/Sites/DamascusRoad/wp-content/themes/damascus/functions.php" />
+      <jump line="165" column="0" filename="$USER_HOME$/Sites/DamascusRoad/wp-content/themes/damascus/functions.php" />
+      <jump line="160" column="0" filename="$USER_HOME$/Sites/DamascusRoad/wp-content/themes/damascus/functions.php" />
+      <jump line="157" column="0" filename="$USER_HOME$/Sites/DamascusRoad/wp-content/themes/damascus/functions.php" />
+      <jump line="145" column="0" filename="$USER_HOME$/Sites/DamascusRoad/wp-content/themes/damascus/functions.php" />
+      <jump line="141" column="0" filename="$USER_HOME$/Sites/DamascusRoad/wp-content/themes/damascus/functions.php" />
+      <jump line="139" column="0" filename="$USER_HOME$/Sites/DamascusRoad/wp-content/themes/damascus/functions.php" />
+      <jump line="127" column="0" filename="$USER_HOME$/Sites/DamascusRoad/wp-content/themes/damascus/functions.php" />
+      <jump line="123" column="0" filename="$USER_HOME$/Sites/DamascusRoad/wp-content/themes/damascus/functions.php" />
+      <jump line="121" column="0" filename="$USER_HOME$/Sites/DamascusRoad/wp-content/themes/damascus/functions.php" />
+      <jump line="119" column="0" filename="$USER_HOME$/Sites/DamascusRoad/wp-content/themes/damascus/functions.php" />
+      <jump line="116" column="0" filename="$USER_HOME$/Sites/DamascusRoad/wp-content/themes/damascus/functions.php" />
+      <jump line="109" column="0" filename="$USER_HOME$/Sites/DamascusRoad/wp-content/themes/damascus/functions.php" />
+      <jump line="93" column="0" filename="$USER_HOME$/Sites/DamascusRoad/wp-content/themes/damascus/functions.php" />
+      <jump line="74" column="0" filename="$USER_HOME$/Sites/DamascusRoad/wp-content/themes/damascus/functions.php" />
+      <jump line="65" column="0" filename="$USER_HOME$/Sites/DamascusRoad/wp-content/themes/damascus/functions.php" />
+      <jump line="62" column="0" filename="$USER_HOME$/Sites/DamascusRoad/wp-content/themes/damascus/functions.php" />
+      <jump line="59" column="0" filename="$USER_HOME$/Sites/DamascusRoad/wp-content/themes/damascus/functions.php" />
+      <jump line="53" column="0" filename="$USER_HOME$/Sites/DamascusRoad/wp-content/themes/damascus/functions.php" />
+      <jump line="44" column="0" filename="$USER_HOME$/Sites/DamascusRoad/wp-content/themes/damascus/functions.php" />
+      <jump line="0" column="0" filename="$USER_HOME$/Sites/DamascusRoad/wp-content/themes/damascus/functions.php" />
+      <jump line="1" column="0" filename="$USER_HOME$/Sites/DamascusRoad/wp-content/themes/damascus/functions.php" />
+      <jump line="9" column="0" filename="$USER_HOME$/Sites/DamascusRoad/wp-content/themes/damascus/functions.php" />
+      <jump line="14" column="0" filename="$USER_HOME$/Sites/DamascusRoad/wp-content/themes/damascus/functions.php" />
+      <jump line="25" column="0" filename="$USER_HOME$/Sites/DamascusRoad/wp-content/themes/damascus/functions.php" />
+      <jump line="29" column="0" filename="$USER_HOME$/Sites/DamascusRoad/wp-content/themes/damascus/functions.php" />
+      <jump line="177" column="57" filename="$USER_HOME$/Sites/DamascusRoad/wp-content/themes/damascus/functions.php" />
+      <jump line="5" column="0" filename="$USER_HOME$/Sites/DamascusRoad/wp-content/themes/damascus/src/js/partials/_lazySizes.js" />
+    </jumps>
+    <registers>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="-" type="4">
+        <text>_</text>
+      </register>
+      <register name="/" type="4">
+        <text>&quot;</text>
+      </register>
+      <register name="0" type="2">
+        <text encoding="base64">CQkJCQk8P3BocCBnZXRfdGVtcGxhdGVfcGFydCggJ2luY2x1ZGVzL2dsYXNzJyApOyA/Pgo=</text>
+      </register>
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">CSJ1c2Vfc3RyaWN0IjsK</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICJ1c2Ugc3RyaWN0IjsK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIHVzCg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICB1c2Ugc3RyaWN0Owo=</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name=":" type="4">
+        <text encoding="base64">JzwsJz5zLyIvJy9n</text>
+      </register>
+    </registers>
+    <search>
+      <last-search>&quot;</last-search>
+      <last-pattern>&quot;</last-pattern>
+      <last-replace>'</last-replace>
+      <last-substitute>&quot;</last-substitute>
+      <last-dir>0</last-dir>
+      <show-last>false</show-last>
+    </search>
+    <history>
+      <history-search>
+        <entry>var</entry>
+        <entry>&quot;</entry>
+      </history-search>
+      <history-cmd>
+        <entry encoding="base64">JzwsJz5zL3Zhci9sZXQvZw==</entry>
+        <entry>Q</entry>
+        <entry>q</entry>
+        <entry encoding="base64">JzwsJz5zLyIvJy9n</entry>
+      </history-cmd>
+      <history-expr />
+      <history-input />
+    </history>
+    <shortcut-conflicts>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed R</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed N</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed O</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed M</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed H</text>
+      </shortcut-conflict>
+    </shortcut-conflicts>
+    <editor>
+      <key-repeat enabled="true" />
+    </editor>
+  </component>
+</application>
