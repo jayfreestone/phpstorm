@@ -3,6 +3,37 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/Sites/DamascusRoad/wp-content/themes/damascus/front-page.php" timestamp="1464189377602">
+        <mark key="[" line="39" column="0" />
+        <mark key="]" line="39" column="32" />
+        <mark key="^" line="38" column="45" />
+        <mark key="." line="39" column="32" />
+      </file>
+      <file name="$USER_HOME$/Sites/DamascusRoad/wp-content/themes/damascus/src/js/partials/_lightbox.js" timestamp="1464193323024">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Sites/DamascusRoad/wp-content/themes/damascus/src/js/partials/_lazySizes.js" timestamp="1464193207947">
+        <mark key="[" line="5" column="15" />
+        <mark key="]" line="6" column="1" />
+        <mark key="." line="6" column="1" />
+        <mark key="^" line="6" column="1" />
+      </file>
+      <file name="$USER_HOME$/Sites/Overture/GypsyRose/wp-content/themes/gypsyroseflowers/img/gypsy-rose-flowers-logo.svg" timestamp="1464257425083">
+        <mark key="'" line="0" column="9507" />
+        <mark key="[" line="0" column="9518" />
+        <mark key="]" line="0" column="9516" />
+        <mark key="." line="0" column="9516" />
+        <mark key="^" line="0" column="9516" />
+      </file>
+      <file name="$USER_HOME$/Sites/DamascusRoad/wp-content/themes/damascus/src/js/partials/_grid.js" timestamp="1464193299761">
+        <mark key="'" line="11" column="12" />
+        <mark key="[" line="5" column="6" />
+        <mark key="]" line="5" column="6" />
+        <mark key="." line="5" column="6" />
+        <mark key="^" line="5" column="6" />
+      </file>
       <file name="$USER_HOME$/Sites/DamascusRoad/wp-content/themes/damascus/src/js/partials/_pjax.js" timestamp="1464193354127">
         <mark key="[" line="2" column="14" />
         <mark key="]" line="2" column="18" />
@@ -15,27 +46,21 @@
         <mark key="." line="4" column="0" />
         <mark key="^" line="4" column="59" />
       </file>
+      <file name="$USER_HOME$/Sites/Overture/GypsyRose/wp-content/themes/gypsyroseflowers/src/scss/layout/_l-siteheader.scss" timestamp="1464257849874">
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="13" column="0" />
+        <mark key="." line="13" column="0" />
+      </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.js" timestamp="1464187570496">
         <mark key="[" line="0" column="21" />
         <mark key="]" line="0" column="21" />
         <mark key="^" line="0" column="21" />
         <mark key="." line="0" column="21" />
       </file>
-      <file name="$USER_HOME$/Sites/DamascusRoad/wp-content/themes/damascus/front-page.php" timestamp="1464189377602">
-        <mark key="[" line="39" column="0" />
-        <mark key="]" line="39" column="32" />
-        <mark key="^" line="38" column="45" />
-        <mark key="." line="39" column="32" />
-      </file>
       <file name="$USER_HOME$/Sites/DamascusRoad/wp-content/themes/damascus/page.php" timestamp="1464189060447">
         <mark key="[" line="4" column="0" />
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
-      </file>
-      <file name="$USER_HOME$/Sites/DamascusRoad/wp-content/themes/damascus/src/js/partials/_lightbox.js" timestamp="1464193323024">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Sites/DamascusRoad/wp-content/themes/damascus/functions.php" timestamp="1464192053432">
         <mark key="'" line="177" column="57" />
@@ -50,18 +75,16 @@
         <mark key="^" line="0" column="20" />
         <mark key="." line="0" column="20" />
       </file>
-      <file name="$USER_HOME$/Sites/DamascusRoad/wp-content/themes/damascus/src/js/partials/_lazySizes.js" timestamp="1464193207947">
-        <mark key="[" line="5" column="15" />
-        <mark key="]" line="6" column="1" />
-        <mark key="." line="6" column="1" />
-        <mark key="^" line="6" column="1" />
+      <file name="$USER_HOME$/Sites/Overture/GypsyRose/wp-content/themes/gypsyroseflowers/functions.php" timestamp="1464258277278">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Sites/DamascusRoad/wp-content/themes/damascus/src/js/partials/_grid.js" timestamp="1464193299761">
-        <mark key="'" line="11" column="12" />
-        <mark key="[" line="5" column="6" />
-        <mark key="]" line="5" column="6" />
-        <mark key="." line="5" column="6" />
-        <mark key="^" line="5" column="6" />
+      <file name="$USER_HOME$/Sites/Overture/GypsyRose/wp-content/themes/gypsyroseflowers/src/scss/modules/_hero.scss" timestamp="1464258088218">
+        <mark key="[" line="16" column="33" />
+        <mark key="]" line="16" column="34" />
+        <mark key="^" line="39" column="41" />
+        <mark key="." line="16" column="34" />
       </file>
       <file name="$USER_HOME$/Sites/DamascusRoad/wp-content/themes/damascus/header.php" timestamp="1464193751086">
         <mark key="'" line="25" column="17" />
@@ -121,63 +144,68 @@
       <jump line="29" column="0" filename="$USER_HOME$/Sites/DamascusRoad/wp-content/themes/damascus/functions.php" />
       <jump line="177" column="57" filename="$USER_HOME$/Sites/DamascusRoad/wp-content/themes/damascus/functions.php" />
       <jump line="5" column="0" filename="$USER_HOME$/Sites/DamascusRoad/wp-content/themes/damascus/src/js/partials/_lazySizes.js" />
+      <jump line="0" column="9507" filename="$USER_HOME$/Sites/Overture/GypsyRose/wp-content/themes/gypsyroseflowers/img/gypsy-rose-flowers-logo.svg" />
+      <jump line="96" column="0" filename="$USER_HOME$/Sites/Overture/GypsyRose/wp-content/themes/gypsyroseflowers/functions.php" />
+      <jump line="0" column="0" filename="$USER_HOME$/Sites/Overture/GypsyRose/wp-content/themes/gypsyroseflowers/functions.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">CQo=</text>
+        <text encoding="base64">PD9waHAKCmFkZF90aGVtZV9zdXBwb3J0KCAncG9zdC10aHVtYm5haWxzJyApOwoKYWRkX2ltYWdlX3NpemUoICdhcnRpY2xlLXByZXZpZXctMzIwJywgMzIwLCAzMjAsIHRydWUgKTsKYWRkX2ltYWdlX3NpemUoICdhcnRpY2xlLXByZXZpZXctNjQwJywgNjQwLCA2NDAsIHRydWUgKTsKCi8qKgogKiBSZWdpc3RlcnMgY3VzdG9tIG1lbnVzCiAqLwpyZWdpc3Rlcl9uYXZfbWVudXMoIGFycmF5KAoJJ2hlYWRlci1tZW51JyAgICAgICA9PiBfXyggJ0hlYWRlciBNZW51JywgJ2d5cHN5cm9zZWZsb3dlcnMnICksCikgKTsKCi8qKgogKiBMZXQgV29yZFByZXNzIG1hbmFnZSB0aGUgZG9jdW1lbnQgdGl0bGUuCiAqLwphZGRfdGhlbWVfc3VwcG9ydCggJ3RpdGxlLXRhZycgKTsKCi8qKgogKiBDbGVhbiB1cCB0aGUgPGhlYWQ+CiAqLwpmdW5jdGlvbiBqZl9jbGVhbl9oZWFkX3RhZ3MoKSB7CglyZW1vdmVfYWN0aW9uKCAnd3BfaGVhZCcsICdmZWVkX2xpbmtzJywgMiApOwoJcmVtb3ZlX2FjdGlvbiggJ3dwX2hlYWQnLCAnZmVlZF9saW5rc19leHRyYScsIDMgKTsKCXJlbW92ZV9hY3Rpb24oICd3cF9oZWFkJywgJ3JzZF9saW5rJyApOwoJcmVtb3ZlX2FjdGlvbiggJ3dwX2hlYWQnLCAnd2x3bWFuaWZlc3RfbGluaycgKTsKCXJlbW92ZV9hY3Rpb24oICd3cF9oZWFkJywgJ2luZGV4X3JlbF9saW5rJyApOwoJcmVtb3ZlX2FjdGlvbiggJ3dwX2hlYWQnLCAncGFyZW50X3Bvc3RfcmVsX2xpbmsnLCAxMCwgMCApOwoJcmVtb3ZlX2FjdGlvbiggJ3dwX2hlYWQnLCAnc3RhcnRfcG9zdF9yZWxfbGluaycsIDEwLCAwICk7CglyZW1vdmVfYWN0aW9uKCAnd3BfaGVhZCcsICdhZGphY2VudF9wb3N0c19yZWxfbGlua193cF9oZWFkJywgMTAsIDAgKTsKCXJlbW92ZV9hY3Rpb24oICd3cF9oZWFkJywgJ3dwX2dlbmVyYXRvcicgKTsKCXJlbW92ZV9hY3Rpb24oICd3cF9oZWFkJywgJ3dwX3Nob3J0bGlua193cF9oZWFkJywgMTAsIDAgKTsKCXJlbW92ZV9hY3Rpb24oICd3cF9oZWFkJywgJ3ByaW50X2Vtb2ppX2RldGVjdGlvbl9zY3JpcHQnLCA3ICk7CglyZW1vdmVfYWN0aW9uKCAnd3BfcHJpbnRfc3R5bGVzJywgJ3ByaW50X2Vtb2ppX3N0eWxlcycgKTsKfQphZGRfYWN0aW9uKCAnaW5pdCcsICdqZl9jbGVhbl9oZWFkX3RhZ3MnICk7CgovKioKICogSmF2YVNjcmlwdCBEZXRlY3Rpb24KICogQWRkcyBhIGBqc2AgY2xhc3MgdG8gdGhlIHJvb3QgYDxodG1sPmAgZWxlbWVudCB3aGVuIEphdmFTY3JpcHQgaXMgZGV0ZWN0ZWQuCiAqLwpmdW5jdGlvbiBqYXZhc2NyaXB0X2RldGVjdGlvbigpIHsKCWVjaG8gIjxzY3JpcHQ+KGZ1bmN0aW9uKGh0bWwpe2h0bWwuY2xhc3NOYW1lID0gaHRtbC5jbGFzc05hbWUucmVwbGFjZSgvXGJuby1qc1xiLywnanMnKTt9KShkb2N1bWVudC5kb2N1bWVudEVsZW1lbnQpOzwvc2NyaXB0PlxuIjsKfQphZGRfYWN0aW9uKCAnd3BfaGVhZCcsICdqYXZhc2NyaXB0X2RldGVjdGlvbicsIDAgKTsKCi8qKgogKiBFbnF1ZXVlcyBzY3JpcHRzICYgc3R5bGVzLgogKi8KZnVuY3Rpb24gZW5xdWV1ZV9hc3NldHMoKSB7Cgl3cF9lbnF1ZXVlX3N0eWxlKCAnbWFpbmNzcycsIGdldF90ZW1wbGF0ZV9kaXJlY3RvcnlfdXJpKCkgLiAnL2Rpc3QvY3NzL21haW4uY3NzJywgZmFsc2UsIGZhbHNlLCAnYWxsJyApOwoKCS8vIFVzZSBHb29nbGUgQWpheCBMaWJyYXJ5IGZvciBqUXVlcnkuCgl3cF9kZXJlZ2lzdGVyX3NjcmlwdCggJ2pxdWVyeScgKTsKCXdwX3JlZ2lzdGVyX3NjcmlwdCggJ2pxdWVyeScsICcvL2FqYXguZ29vZ2xlYXBpcy5jb20vYWpheC9saWJzL2pxdWVyeS8xLjExLjIvanF1ZXJ5Lm1pbi5qcycsIGZhbHNlLCBmYWxzZSwgZmFsc2UgKTsKCXdwX2VucXVldWVfc2NyaXB0KCAnanF1ZXJ5JyApOwoKCS8vIFJlbW92ZXMgdW53YW50ZWQgV29yZFByZXNzIGVtYmVkIHNjcmlwdAoJd3BfZGVyZWdpc3Rlcl9zY3JpcHQoICd3cC1lbWJlZCcgKTsKCgkvLyB3cF9lbnF1ZXVlX3NjcmlwdCggJ3BqYXgnLCBnZXRfdGVtcGxhdGVfZGlyZWN0b3J5X3VyaSgpIC4gJy9wdWJsaWMvanMvcGpheC5qcycsIGZhbHNlLCBmYWxzZSwgdHJ1ZSApOwoJLy8gd3BfZW5xdWV1ZV9zY3JpcHQoICdsYXp5c2l6ZXMnLCBnZXRfdGVtcGxhdGVfZGlyZWN0b3J5X3VyaSgpIC4gJy9wdWJsaWMvanMvbGF6eXNpemVzLm1pbi5qcycsIGZhbHNlLCBmYWxzZSwgdHJ1ZSApOwoJLy8gd3BfZW5xdWV1ZV9zY3JpcHQoICdpbnN0YWZlZWQnLCBnZXRfdGVtcGxhdGVfZGlyZWN0b3J5X3VyaSgpIC4gJy9kaXN0L2pzL2luc3RhZmVlZC5taW4uanMnLCBhcnJheSgpLCBmYWxzZSwgdHJ1ZSApOwoJd3BfZW5xdWV1ZV9zY3JpcHQoICdtb2RhYWwnLCBnZXRfdGVtcGxhdGVfZGlyZWN0b3J5X3VyaSgpIC4gJy9kaXN0L2pzL21vZGFhbC5taW4uanMnLCBhcnJheSgpLCBmYWxzZSwgdHJ1ZSApOwoJd3BfZW5xdWV1ZV9zY3JpcHQoICdtYWluanMnLCBnZXRfdGVtcGxhdGVfZGlyZWN0b3J5X3VyaSgpIC4gJy9kaXN0L2pzL21haW4uanMnLCBhcnJheSgpLCBmYWxzZSwgdHJ1ZSApOwoJd3BfbG9jYWxpemVfc2NyaXB0KCAnbWFpbmpzJywgJ2luc3RhZ3JhbWlkJywgZ2V0X2ZpZWxkKCAnaW5zdGFncmFtX2lkJywgJ29wdGlvbnMnICkgKTsKfQphZGRfYWN0aW9uKCAnd3BfZW5xdWV1ZV9zY3JpcHRzJywgJ2VucXVldWVfYXNzZXRzJyApOwoKLyoqCiAqIFJlbW92ZSBXUCB2ZXJzaW9uIGZyb20gY3NzIGFuZCBqcwogKi8KZnVuY3Rpb24gcmVtb3ZlX3dwX3Zlcl9jc3NfanMoICRzcmMgKSB7CglpZiAoIHN0cnBvcyggJHNyYywgJ3Zlcj0nICkgKSB7CgkJJHNyYyA9IHJlbW92ZV9xdWVyeV9hcmcoICd2ZXInLCAkc3JjICk7Cgl9CglyZXR1cm4gJHNyYzsKfQphZGRfZmlsdGVyKCAnc3R5bGVfbG9hZGVyX3NyYycsICdyZW1vdmVfd3BfdmVyX2Nzc19qcycsIDk5OTkgKTsKYWRkX2ZpbHRlciggJ3NjcmlwdF9sb2FkZXJfc3JjJywgJ3JlbW92ZV93cF92ZXJfY3NzX2pzJywgOTk5OSApOwoKLyoqCiAqIEFkZHMgQUNGIE9wdGlvbnMgUGFnZQogKi8KaWYoIGZ1bmN0aW9uX2V4aXN0cygnYWNmX2FkZF9vcHRpb25zX3BhZ2UnKSApIHsKCglhY2ZfYWRkX29wdGlvbnNfcGFnZSgpOwoJCn0KCi8qKgogKiBEaXNwbGF5cyB0aGUgbGF0ZXN0IHBob3RvcyBmcm9tIGEgdXNlcidzIEluc3RhZ3JhbQogKi8KZnVuY3Rpb24gZ2V0X3Bob3RvcyggJGNvdW50ID0gMywgJGNsYXNzID0gJycgKSB7CgkvLyBDaGVjayBpZiB3ZSBhbHJlYWR5IGhhdmUgSlNPTgoJJHBob3RvcyA9IGdldF90cmFuc2llbnQoICdpbnN0YWdyYW1fanNvbicpOwoKCS8vIElmIG5vdCwgZmV0Y2ggaXQKCWlmICggZmFsc2UgPT09ICRwaG90b3MgKSB7CgkJJG15X2FjY291bnQgPSBnZXRfZmllbGQoICdpbnN0YWdyYW1fdXNlcm5hbWUnLCAnb3B0aW9ucycgKTsgCgoJCS8vIE9ubHkgcHJvY2VlZCBpZiB1c2VyIGlzIGZpbGxlZCBvdXQgaW4gYmFja2VuZAoJCWlmICggJG15X2FjY291bnQgKSB7CgkJCS8vIFNjcmFwZSBJbnN0YWdyYW0gdXNlcidzIHBhZ2UKCQkJJHJlc3VsdHNfYXJyYXkgPSBzY3JhcGVfaW5zdGEoJG15X2FjY291bnQpOwoJCQkKCQkJLy8gSXNvbGF0ZSByZWNlbnQgcG9zdHMKCQkJJGxhdGVzdF9hcnJheSA9ICRyZXN1bHRzX2FycmF5WydlbnRyeV9kYXRhJ11bJ1Byb2ZpbGVQYWdlJ11bMF1bJ3VzZXInXVsnbWVkaWEnXVsnbm9kZXMnXTsKCgkJCS8vIFN0b3JlIGluIHRyYW5zaWVudAoJCQlzZXRfdHJhbnNpZW50KCAnaW5zdGFncmFtX2pzb24nLCAkbGF0ZXN0X2FycmF5LCAxMiAqIEhPVVJfSU5fU0VDT05EUyApOwoKCQl9CgoJfQoKCS8vIERpc3BsYXkgUGhvdG9zCgllY2hvICc8dWwgY2xhc3M9IicgLiAkY2xhc3MgLiAnIj4nOwoKCWZvciAoICRpID0gMDsgJGkgPCAkY291bnQ7ICRpKysgKSB7CgkJZWNobyAnPGxpPic7CgkJZWNobyAnPGEgaHJlZj0iaHR0cDovL2luc3RhZ3JhbS5jb20vcC8nLiRwaG90b3NbJGldWydjb2RlJ10uJyI+PGltZyBzcmM9IicuJHBob3Rvc1skaV1bJ3RodW1ibmFpbF9zcmMnXS4nIj48L2E+PC9icj4nOwoJCWVjaG8gJ0xpa2VzOiAnLiRwaG90b3NbJGldWydsaWtlcyddWydjb3VudCddLicgLSBDb21tZW50czogJy4kcGhvdG9zWyRpXVsnY29tbWVudHMnXVsnY291bnQnXS4nPGJyLz4nOwoJCWVjaG8gJzwvbGk+JzsKCX0KCgllY2hvICc8L3VsPic7Cgp9CgovL3JldHVybnMgYSBiaWcgb2xkIGh1bmsgb2YgSlNPTiBmcm9tIGEgbm9uLXByaXZhdGUgSUcgYWNjb3VudCBwYWdlLgpmdW5jdGlvbiBzY3JhcGVfaW5zdGEoJHVzZXJuYW1lKSB7CgkkaW5zdGFfc291cmNlID0gZmlsZV9nZXRfY29udGVudHMoJ2h0dHBzOi8vaW5zdGFncmFtLmNvbS8nLiR1c2VybmFtZSk7Cgkkc2hhcmRzID0gZXhwbG9kZSgnd2luZG93Ll9zaGFyZWREYXRhID0gJywgJGluc3RhX3NvdXJjZSk7CgkkaW5zdGFfanNvbiA9IGV4cGxvZGUoJzs8L3NjcmlwdD4nLCAkc2hhcmRzWzFdKTsgCgkkaW5zdGFfYXJyYXkgPSBqc29uX2RlY29kZSgkaW5zdGFfanNvblswXSwgVFJVRSk7CglyZXR1cm4gJGluc3RhX2FycmF5Owp9CgovKioKICogU2V0dXAgU2lkZWJhcnMKICovCmZ1bmN0aW9uIHNldHVwX3NpZGViYXJzKCkgewoJLyogUmVnaXN0ZXIgdGhlIE5ld3Mgc2lkZWJhci4gKi8KCXJlZ2lzdGVyX3NpZGViYXIoCgkJYXJyYXkoCgkJCSdpZCcgPT4gJ2Jsb2ctc2lkZWJhcicsCgkJCSduYW1lJyA9PiBfXyggJ0Jsb2cgU2lkZWJhcicsICd0ZXh0ZG9tYWluJyApLAoJCQknZGVzY3JpcHRpb24nID0+IF9fKCAnRGlzcGxheWVkIG9uIHRoZSBCbG9nIHBhZ2VzJywgJ3RleHRkb21haW4nICksCgkJCSdiZWZvcmVfd2lkZ2V0JyA9PiAnPGFzaWRlIGNsYXNzPSJ3aWRnZXQgJTIkcyI+JywKCQkJJ2FmdGVyX3dpZGdldCcgPT4gJzwvYXNpZGU+JywKCQkJJ2JlZm9yZV90aXRsZScgPT4gJzxoMyBjbGFzcz0id2lkZ2V0X190aXRsZSI+JywKCQkJJ2FmdGVyX3RpdGxlJyA9PiAnPC9oMz4nLAoJCSkKCSk7Cn0KYWRkX2FjdGlvbiggJ3dpZGdldHNfaW5pdCcsICdzZXR1cF9zaWRlYmFycycgKTsK</text>
       </register>
       <register name="-" type="4">
-        <text>_</text>
+        <text />
       </register>
       <register name="/" type="4">
-        <text>&quot;</text>
+        <text>fill</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">CQkJCQk8P3BocCBnZXRfdGVtcGxhdGVfcGFydCggJ2luY2x1ZGVzL2dsYXNzJyApOyA/Pgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQo=</text>
+        <text encoding="base64">PD9waHAKCmFkZF90aGVtZV9zdXBwb3J0KCAncG9zdC10aHVtYm5haWxzJyApOwoKYWRkX2ltYWdlX3NpemUoICdhcnRpY2xlLXByZXZpZXctMzIwJywgMzIwLCAzMjAsIHRydWUgKTsKYWRkX2ltYWdlX3NpemUoICdhcnRpY2xlLXByZXZpZXctNjQwJywgNjQwLCA2NDAsIHRydWUgKTsKCi8qKgogKiBSZWdpc3RlcnMgY3VzdG9tIG1lbnVzCiAqLwpyZWdpc3Rlcl9uYXZfbWVudXMoIGFycmF5KAoJJ2hlYWRlci1tZW51JyAgICAgICA9PiBfXyggJ0hlYWRlciBNZW51JywgJ2d5cHN5cm9zZWZsb3dlcnMnICksCikgKTsKCi8qKgogKiBMZXQgV29yZFByZXNzIG1hbmFnZSB0aGUgZG9jdW1lbnQgdGl0bGUuCiAqLwphZGRfdGhlbWVfc3VwcG9ydCggJ3RpdGxlLXRhZycgKTsKCi8qKgogKiBDbGVhbiB1cCB0aGUgPGhlYWQ+CiAqLwpmdW5jdGlvbiBqZl9jbGVhbl9oZWFkX3RhZ3MoKSB7CglyZW1vdmVfYWN0aW9uKCAnd3BfaGVhZCcsICdmZWVkX2xpbmtzJywgMiApOwoJcmVtb3ZlX2FjdGlvbiggJ3dwX2hlYWQnLCAnZmVlZF9saW5rc19leHRyYScsIDMgKTsKCXJlbW92ZV9hY3Rpb24oICd3cF9oZWFkJywgJ3JzZF9saW5rJyApOwoJcmVtb3ZlX2FjdGlvbiggJ3dwX2hlYWQnLCAnd2x3bWFuaWZlc3RfbGluaycgKTsKCXJlbW92ZV9hY3Rpb24oICd3cF9oZWFkJywgJ2luZGV4X3JlbF9saW5rJyApOwoJcmVtb3ZlX2FjdGlvbiggJ3dwX2hlYWQnLCAncGFyZW50X3Bvc3RfcmVsX2xpbmsnLCAxMCwgMCApOwoJcmVtb3ZlX2FjdGlvbiggJ3dwX2hlYWQnLCAnc3RhcnRfcG9zdF9yZWxfbGluaycsIDEwLCAwICk7CglyZW1vdmVfYWN0aW9uKCAnd3BfaGVhZCcsICdhZGphY2VudF9wb3N0c19yZWxfbGlua193cF9oZWFkJywgMTAsIDAgKTsKCXJlbW92ZV9hY3Rpb24oICd3cF9oZWFkJywgJ3dwX2dlbmVyYXRvcicgKTsKCXJlbW92ZV9hY3Rpb24oICd3cF9oZWFkJywgJ3dwX3Nob3J0bGlua193cF9oZWFkJywgMTAsIDAgKTsKCXJlbW92ZV9hY3Rpb24oICd3cF9oZWFkJywgJ3ByaW50X2Vtb2ppX2RldGVjdGlvbl9zY3JpcHQnLCA3ICk7CglyZW1vdmVfYWN0aW9uKCAnd3BfcHJpbnRfc3R5bGVzJywgJ3ByaW50X2Vtb2ppX3N0eWxlcycgKTsKfQphZGRfYWN0aW9uKCAnaW5pdCcsICdqZl9jbGVhbl9oZWFkX3RhZ3MnICk7CgovKioKICogSmF2YVNjcmlwdCBEZXRlY3Rpb24KICogQWRkcyBhIGBqc2AgY2xhc3MgdG8gdGhlIHJvb3QgYDxodG1sPmAgZWxlbWVudCB3aGVuIEphdmFTY3JpcHQgaXMgZGV0ZWN0ZWQuCiAqLwpmdW5jdGlvbiBqYXZhc2NyaXB0X2RldGVjdGlvbigpIHsKCWVjaG8gIjxzY3JpcHQ+KGZ1bmN0aW9uKGh0bWwpe2h0bWwuY2xhc3NOYW1lID0gaHRtbC5jbGFzc05hbWUucmVwbGFjZSgvXGJuby1qc1xiLywnanMnKTt9KShkb2N1bWVudC5kb2N1bWVudEVsZW1lbnQpOzwvc2NyaXB0PlxuIjsKfQphZGRfYWN0aW9uKCAnd3BfaGVhZCcsICdqYXZhc2NyaXB0X2RldGVjdGlvbicsIDAgKTsKCi8qKgogKiBFbnF1ZXVlcyBzY3JpcHRzICYgc3R5bGVzLgogKi8KZnVuY3Rpb24gZW5xdWV1ZV9hc3NldHMoKSB7Cgl3cF9lbnF1ZXVlX3N0eWxlKCAnbWFpbmNzcycsIGdldF90ZW1wbGF0ZV9kaXJlY3RvcnlfdXJpKCkgLiAnL2Rpc3QvY3NzL21haW4uY3NzJywgZmFsc2UsIGZhbHNlLCAnYWxsJyApOwoKCS8vIFVzZSBHb29nbGUgQWpheCBMaWJyYXJ5IGZvciBqUXVlcnkuCgl3cF9kZXJlZ2lzdGVyX3NjcmlwdCggJ2pxdWVyeScgKTsKCXdwX3JlZ2lzdGVyX3NjcmlwdCggJ2pxdWVyeScsICcvL2FqYXguZ29vZ2xlYXBpcy5jb20vYWpheC9saWJzL2pxdWVyeS8xLjExLjIvanF1ZXJ5Lm1pbi5qcycsIGZhbHNlLCBmYWxzZSwgZmFsc2UgKTsKCXdwX2VucXVldWVfc2NyaXB0KCAnanF1ZXJ5JyApOwoKCS8vIFJlbW92ZXMgdW53YW50ZWQgV29yZFByZXNzIGVtYmVkIHNjcmlwdAoJd3BfZGVyZWdpc3Rlcl9zY3JpcHQoICd3cC1lbWJlZCcgKTsKCgkvLyB3cF9lbnF1ZXVlX3NjcmlwdCggJ3BqYXgnLCBnZXRfdGVtcGxhdGVfZGlyZWN0b3J5X3VyaSgpIC4gJy9wdWJsaWMvanMvcGpheC5qcycsIGZhbHNlLCBmYWxzZSwgdHJ1ZSApOwoJLy8gd3BfZW5xdWV1ZV9zY3JpcHQoICdsYXp5c2l6ZXMnLCBnZXRfdGVtcGxhdGVfZGlyZWN0b3J5X3VyaSgpIC4gJy9wdWJsaWMvanMvbGF6eXNpemVzLm1pbi5qcycsIGZhbHNlLCBmYWxzZSwgdHJ1ZSApOwoJLy8gd3BfZW5xdWV1ZV9zY3JpcHQoICdpbnN0YWZlZWQnLCBnZXRfdGVtcGxhdGVfZGlyZWN0b3J5X3VyaSgpIC4gJy9kaXN0L2pzL2luc3RhZmVlZC5taW4uanMnLCBhcnJheSgpLCBmYWxzZSwgdHJ1ZSApOwoJd3BfZW5xdWV1ZV9zY3JpcHQoICdtb2RhYWwnLCBnZXRfdGVtcGxhdGVfZGlyZWN0b3J5X3VyaSgpIC4gJy9kaXN0L2pzL21vZGFhbC5taW4uanMnLCBhcnJheSgpLCBmYWxzZSwgdHJ1ZSApOwoJd3BfZW5xdWV1ZV9zY3JpcHQoICdtYWluanMnLCBnZXRfdGVtcGxhdGVfZGlyZWN0b3J5X3VyaSgpIC4gJy9kaXN0L2pzL21haW4uanMnLCBhcnJheSgpLCBmYWxzZSwgdHJ1ZSApOwoJd3BfbG9jYWxpemVfc2NyaXB0KCAnbWFpbmpzJywgJ2luc3RhZ3JhbWlkJywgZ2V0X2ZpZWxkKCAnaW5zdGFncmFtX2lkJywgJ29wdGlvbnMnICkgKTsKfQphZGRfYWN0aW9uKCAnd3BfZW5xdWV1ZV9zY3JpcHRzJywgJ2VucXVldWVfYXNzZXRzJyApOwoKLyoqCiAqIFJlbW92ZSBXUCB2ZXJzaW9uIGZyb20gY3NzIGFuZCBqcwogKi8KZnVuY3Rpb24gcmVtb3ZlX3dwX3Zlcl9jc3NfanMoICRzcmMgKSB7CglpZiAoIHN0cnBvcyggJHNyYywgJ3Zlcj0nICkgKSB7CgkJJHNyYyA9IHJlbW92ZV9xdWVyeV9hcmcoICd2ZXInLCAkc3JjICk7Cgl9CglyZXR1cm4gJHNyYzsKfQphZGRfZmlsdGVyKCAnc3R5bGVfbG9hZGVyX3NyYycsICdyZW1vdmVfd3BfdmVyX2Nzc19qcycsIDk5OTkgKTsKYWRkX2ZpbHRlciggJ3NjcmlwdF9sb2FkZXJfc3JjJywgJ3JlbW92ZV93cF92ZXJfY3NzX2pzJywgOTk5OSApOwoKLyoqCiAqIEFkZHMgQUNGIE9wdGlvbnMgUGFnZQogKi8KaWYoIGZ1bmN0aW9uX2V4aXN0cygnYWNmX2FkZF9vcHRpb25zX3BhZ2UnKSApIHsKCglhY2ZfYWRkX29wdGlvbnNfcGFnZSgpOwoJCn0KCi8qKgogKiBEaXNwbGF5cyB0aGUgbGF0ZXN0IHBob3RvcyBmcm9tIGEgdXNlcidzIEluc3RhZ3JhbQogKi8KZnVuY3Rpb24gZ2V0X3Bob3RvcyggJGNvdW50ID0gMywgJGNsYXNzID0gJycgKSB7CgkvLyBDaGVjayBpZiB3ZSBhbHJlYWR5IGhhdmUgSlNPTgoJJHBob3RvcyA9IGdldF90cmFuc2llbnQoICdpbnN0YWdyYW1fanNvbicpOwoKCS8vIElmIG5vdCwgZmV0Y2ggaXQKCWlmICggZmFsc2UgPT09ICRwaG90b3MgKSB7CgkJJG15X2FjY291bnQgPSBnZXRfZmllbGQoICdpbnN0YWdyYW1fdXNlcm5hbWUnLCAnb3B0aW9ucycgKTsgCgoJCS8vIE9ubHkgcHJvY2VlZCBpZiB1c2VyIGlzIGZpbGxlZCBvdXQgaW4gYmFja2VuZAoJCWlmICggJG15X2FjY291bnQgKSB7CgkJCS8vIFNjcmFwZSBJbnN0YWdyYW0gdXNlcidzIHBhZ2UKCQkJJHJlc3VsdHNfYXJyYXkgPSBzY3JhcGVfaW5zdGEoJG15X2FjY291bnQpOwoJCQkKCQkJLy8gSXNvbGF0ZSByZWNlbnQgcG9zdHMKCQkJJGxhdGVzdF9hcnJheSA9ICRyZXN1bHRzX2FycmF5WydlbnRyeV9kYXRhJ11bJ1Byb2ZpbGVQYWdlJ11bMF1bJ3VzZXInXVsnbWVkaWEnXVsnbm9kZXMnXTsKCgkJCS8vIFN0b3JlIGluIHRyYW5zaWVudAoJCQlzZXRfdHJhbnNpZW50KCAnaW5zdGFncmFtX2pzb24nLCAkbGF0ZXN0X2FycmF5LCAxMiAqIEhPVVJfSU5fU0VDT05EUyApOwoKCQl9CgoJfQoKCS8vIERpc3BsYXkgUGhvdG9zCgllY2hvICc8dWwgY2xhc3M9IicgLiAkY2xhc3MgLiAnIj4nOwoKCWZvciAoICRpID0gMDsgJGkgPCAkY291bnQ7ICRpKysgKSB7CgkJZWNobyAnPGxpPic7CgkJZWNobyAnPGEgaHJlZj0iaHR0cDovL2luc3RhZ3JhbS5jb20vcC8nLiRwaG90b3NbJGldWydjb2RlJ10uJyI+PGltZyBzcmM9IicuJHBob3Rvc1skaV1bJ3RodW1ibmFpbF9zcmMnXS4nIj48L2E+PC9icj4nOwoJCWVjaG8gJ0xpa2VzOiAnLiRwaG90b3NbJGldWydsaWtlcyddWydjb3VudCddLicgLSBDb21tZW50czogJy4kcGhvdG9zWyRpXVsnY29tbWVudHMnXVsnY291bnQnXS4nPGJyLz4nOwoJCWVjaG8gJzwvbGk+JzsKCX0KCgllY2hvICc8L3VsPic7Cgp9CgovL3JldHVybnMgYSBiaWcgb2xkIGh1bmsgb2YgSlNPTiBmcm9tIGEgbm9uLXByaXZhdGUgSUcgYWNjb3VudCBwYWdlLgpmdW5jdGlvbiBzY3JhcGVfaW5zdGEoJHVzZXJuYW1lKSB7CgkkaW5zdGFfc291cmNlID0gZmlsZV9nZXRfY29udGVudHMoJ2h0dHBzOi8vaW5zdGFncmFtLmNvbS8nLiR1c2VybmFtZSk7Cgkkc2hhcmRzID0gZXhwbG9kZSgnd2luZG93Ll9zaGFyZWREYXRhID0gJywgJGluc3RhX3NvdXJjZSk7CgkkaW5zdGFfanNvbiA9IGV4cGxvZGUoJzs8L3NjcmlwdD4nLCAkc2hhcmRzWzFdKTsgCgkkaW5zdGFfYXJyYXkgPSBqc29uX2RlY29kZSgkaW5zdGFfanNvblswXSwgVFJVRSk7CglyZXR1cm4gJGluc3RhX2FycmF5Owp9CgovKioKICogU2V0dXAgU2lkZWJhcnMKICovCmZ1bmN0aW9uIHNldHVwX3NpZGViYXJzKCkgewoJLyogUmVnaXN0ZXIgdGhlIE5ld3Mgc2lkZWJhci4gKi8KCXJlZ2lzdGVyX3NpZGViYXIoCgkJYXJyYXkoCgkJCSdpZCcgPT4gJ2Jsb2ctc2lkZWJhcicsCgkJCSduYW1lJyA9PiBfXyggJ0Jsb2cgU2lkZWJhcicsICd0ZXh0ZG9tYWluJyApLAoJCQknZGVzY3JpcHRpb24nID0+IF9fKCAnRGlzcGxheWVkIG9uIHRoZSBCbG9nIHBhZ2VzJywgJ3RleHRkb21haW4nICksCgkJCSdiZWZvcmVfd2lkZ2V0JyA9PiAnPGFzaWRlIGNsYXNzPSJ3aWRnZXQgJTIkcyI+JywKCQkJJ2FmdGVyX3dpZGdldCcgPT4gJzwvYXNpZGU+JywKCQkJJ2JlZm9yZV90aXRsZScgPT4gJzxoMyBjbGFzcz0id2lkZ2V0X190aXRsZSI+JywKCQkJJ2FmdGVyX3RpdGxlJyA9PiAnPC9oMz4nLAoJCSkKCSk7Cn0KYWRkX2FjdGlvbiggJ3dpZGdldHNfaW5pdCcsICdzZXR1cF9zaWRlYmFycycgKTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CXBvc2l0aW9uOiByYXRpdmU7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CSJ1c2Vfc3RyaWN0IjsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CSY6YmVmb3JlIHsKCQljb250ZW50OiAnJzsKCQlwb3NpdGlvbjogYWJzb2x1dGU7CgkJdG9wOiAwOwoJCWxlZnQ6IDA7CgkJcmlnaHQ6IDA7CgkJYm90dG9tOiAwOwoJCWJhY2tncm91bmQ6IHJnYmEoMCwwLDAsMC4zKTsKCX0K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICJ1c2Ugc3RyaWN0IjsK</text>
+        <text encoding="base64">CS5oZXJvX190aXRsZSB7CgkJbWFyZ2luOiAtMTAlIDAgMDsKCX0K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHVzCg==</text>
+        <text encoding="base64">CQkvL2NvbG9yOiAkYmxhY2s7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICB1c2Ugc3RyaWN0Owo=</text>
+        <text encoding="base64">CS8vY29sb3IkYmxhY2s7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CS8vYmFja2dyb3VuZDogd2hpdGU7Cg==</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zLyIvJy9n</text>
       </register>
     </registers>
     <search>
-      <last-search>&quot;</last-search>
-      <last-pattern>&quot;</last-pattern>
+      <last-search>fill</last-search>
+      <last-offset />
+      <last-pattern>fill</last-pattern>
       <last-replace>'</last-replace>
       <last-substitute>&quot;</last-substitute>
-      <last-dir>0</last-dir>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
         <entry>var</entry>
         <entry>&quot;</entry>
+        <entry>fill</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL3Zhci9sZXQvZw==</entry>
