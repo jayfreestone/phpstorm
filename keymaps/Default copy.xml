@@ -1,0 +1,20 @@
+<keymap version="1" name="Default copy" parent="Mac OS X 10.5+">
+  <action id="EditorCutLineEnd" />
+  <action id="QuickJavaDoc">
+    <keyboard-shortcut first-keystroke="f1" />
+    <mouse-shortcut keystroke="control button2" />
+  </action>
+  <action id="TypeHierarchy" />
+  <action id="VimWindowDown">
+    <keyboard-shortcut first-keystroke="ctrl j" />
+  </action>
+  <action id="VimWindowLeft">
+    <keyboard-shortcut first-keystroke="ctrl h" />
+  </action>
+  <action id="VimWindowRight">
+    <keyboard-shortcut first-keystroke="ctrl l" />
+  </action>
+  <action id="VimWindowUp">
+    <keyboard-shortcut first-keystroke="ctrl k" />
+  </action>
+</keymap>
