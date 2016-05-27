@@ -3,7 +3,7 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Sites/DamascusRoad/wp-content/themes/damascus/footer.php" timestamp="1464273715216">
+      <file name="$USER_HOME$/Sites/DamascusRoad/wp-content/themes/damascus/footer.php" timestamp="1464342855181">
         <mark key="[" line="14" column="0" />
         <mark key="]" line="14" column="0" />
         <mark key="." line="14" column="0" />
@@ -21,10 +21,27 @@
         <mark key="]" line="30" column="0" />
         <mark key="." line="30" column="0" />
       </file>
-      <file name="$USER_HOME$/Sites/DamascusRoad/wp-content/themes/damascus/src/js/partials/_lightbox.js" timestamp="1464193323024">
+      <file name="/a.dummy" timestamp="1464341481449">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Sites/DamascusRoad/wp-content/themes/damascus/src/js/partials/_lightbox.js" timestamp="1464340943098">
+        <mark key="'" line="19" column="6" />
+        <mark key="[" line="18" column="21" />
+        <mark key="]" line="18" column="21" />
+        <mark key="^" line="17" column="18" />
+        <mark key="." line="18" column="21" />
+      </file>
+      <file name="$USER_HOME$/Sites/DamascusRoad/wp-content/themes/damascus/src/scss/vendor/photoswipe/default-skin.scss" timestamp="1464341635785">
+        <mark key="[" line="19" column="12" />
+        <mark key="]" line="19" column="8" />
+        <mark key="^" line="19" column="8" />
+        <mark key="." line="19" column="8" />
+      </file>
+      <file name="$USER_HOME$/Sites/DamascusRoad/wp-content/themes/damascus/src/scss/vendor/photoswipe/_main-settings.scss" timestamp="1464341660376">
+        <mark key="[" line="6" column="23" />
+        <mark key="]" line="6" column="25" />
+        <mark key="^" line="6" column="25" />
+        <mark key="." line="6" column="25" />
       </file>
       <file name="$USER_HOME$/Sites/DamascusRoad/wp-content/themes/damascus/src/js/partials/_grid.js" timestamp="1464193299761">
         <mark key="'" line="11" column="12" />
@@ -81,7 +98,7 @@
         <mark key="." line="17" column="19" />
         <mark key="^" line="17" column="19" />
       </file>
-      <file name="/Dummy.txt" timestamp="1464276809917">
+      <file name="/Dummy.txt" timestamp="1464340903206">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Sites/DamascusRoad/wp-content/themes/damascus/src/scss/base/_utility.scss" timestamp="1464271282778">
@@ -102,12 +119,12 @@
         <mark key="." line="0" column="9516" />
         <mark key="^" line="0" column="9516" />
       </file>
-      <file name="$USER_HOME$/Sites/DamascusRoad/wp-content/themes/damascus/src/scss/main.scss" timestamp="1464269359090">
+      <file name="$USER_HOME$/Sites/DamascusRoad/wp-content/themes/damascus/src/scss/main.scss" timestamp="1464342321892">
         <mark key="'" line="25" column="0" />
-        <mark key="[" line="28" column="24" />
-        <mark key="]" line="28" column="24" />
-        <mark key="^" line="28" column="24" />
-        <mark key="." line="28" column="24" />
+        <mark key="[" line="29" column="23" />
+        <mark key="]" line="29" column="23" />
+        <mark key="." line="29" column="23" />
+        <mark key="^" line="29" column="23" />
       </file>
       <file name="$USER_HOME$/Sites/DamascusRoad/wp-content/themes/damascus/src/scss/modules/_lazyload.scss" timestamp="1464279607469">
         <mark key="[" line="4" column="27" />
@@ -151,6 +168,12 @@
         <mark key="]" line="12" column="0" />
         <mark key="." line="12" column="0" />
       </file>
+      <file name="$USER_HOME$/Sites/DamascusRoad/wp-content/themes/damascus/src/scss/vendor/photoswipe/default-skin/default-skin.scss" timestamp="1464341477923">
+        <mark key="'" line="521" column="4" />
+        <mark key="[" line="516" column="0" />
+        <mark key="]" line="516" column="0" />
+        <mark key="." line="516" column="0" />
+      </file>
       <file name="$USER_HOME$/Sites/Overture/GypsyRose/wp-content/themes/gypsyroseflowers/src/scss/modules/_hero.scss" timestamp="1464258088218">
         <mark key="[" line="16" column="33" />
         <mark key="]" line="16" column="34" />
@@ -164,10 +187,18 @@
         <mark key="." line="3" column="20" />
         <mark key="^" line="3" column="20" />
       </file>
-      <file name="$USER_HOME$/Sites/DamascusRoad/wp-content/themes/damascus/page-events.php" timestamp="1464189036932">
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="4" column="0" />
-        <mark key="." line="4" column="0" />
+      <file name="$USER_HOME$/Sites/DamascusRoad/wp-content/themes/damascus/page-events.php" timestamp="1464342632731">
+        <mark key="[" line="20" column="0" />
+        <mark key="]" line="20" column="0" />
+        <mark key="." line="20" column="0" />
+        <mark key="^" line="25" column="36" />
+      </file>
+      <file name="$USER_HOME$/Sites/DamascusRoad/wp-content/themes/damascus/src/scss/modules/_event.scss" timestamp="1464342658178">
+        <mark key="'" line="2" column="0" />
+        <mark key="[" line="1" column="14" />
+        <mark key="]" line="1" column="15" />
+        <mark key="." line="1" column="15" />
+        <mark key="^" line="1" column="17" />
       </file>
     </filemarks>
     <jumps>
@@ -253,55 +284,70 @@
       <jump line="5" column="37" filename="$USER_HOME$/Sites/DamascusRoad/wp-content/themes/damascus/src/scss/modules/_lazyload.scss" />
       <jump line="7" column="32" filename="$USER_HOME$/Sites/DamascusRoad/wp-content/themes/damascus/src/js/partials/_pjax.js" />
       <jump line="69" column="11" filename="$USER_HOME$/Sites/DamascusRoad/wp-content/themes/damascus/src/js/partials/_pjax.js" />
+      <jump line="8" column="0" filename="$USER_HOME$/Sites/DamascusRoad/wp-content/themes/damascus/src/js/partials/_lightbox.js" />
+      <jump line="46" column="4" filename="$USER_HOME$/Sites/DamascusRoad/wp-content/themes/damascus/src/js/partials/_lightbox.js" />
+      <jump line="49" column="11" filename="$USER_HOME$/Sites/DamascusRoad/wp-content/themes/damascus/src/js/partials/_lightbox.js" />
+      <jump line="11" column="4" filename="$USER_HOME$/Sites/DamascusRoad/wp-content/themes/damascus/src/js/partials/_lightbox.js" />
+      <jump line="17" column="18" filename="$USER_HOME$/Sites/DamascusRoad/wp-content/themes/damascus/src/js/partials/_lightbox.js" />
+      <jump line="19" column="6" filename="$USER_HOME$/Sites/DamascusRoad/wp-content/themes/damascus/src/js/partials/_lightbox.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/Sites/DamascusRoad/wp-content/themes/damascus/src/scss/vendor/photoswipe/default-skin/default-skin.scss" />
+      <jump line="333" column="7" filename="$USER_HOME$/Sites/DamascusRoad/wp-content/themes/damascus/src/scss/vendor/photoswipe/default-skin/default-skin.scss" />
+      <jump line="346" column="7" filename="$USER_HOME$/Sites/DamascusRoad/wp-content/themes/damascus/src/scss/vendor/photoswipe/default-skin/default-skin.scss" />
+      <jump line="356" column="7" filename="$USER_HOME$/Sites/DamascusRoad/wp-content/themes/damascus/src/scss/vendor/photoswipe/default-skin/default-skin.scss" />
+      <jump line="360" column="8" filename="$USER_HOME$/Sites/DamascusRoad/wp-content/themes/damascus/src/scss/vendor/photoswipe/default-skin/default-skin.scss" />
+      <jump line="361" column="7" filename="$USER_HOME$/Sites/DamascusRoad/wp-content/themes/damascus/src/scss/vendor/photoswipe/default-skin/default-skin.scss" />
+      <jump line="499" column="7" filename="$USER_HOME$/Sites/DamascusRoad/wp-content/themes/damascus/src/scss/vendor/photoswipe/default-skin/default-skin.scss" />
+      <jump line="521" column="4" filename="$USER_HOME$/Sites/DamascusRoad/wp-content/themes/damascus/src/scss/vendor/photoswipe/default-skin/default-skin.scss" />
+      <jump line="1" column="0" filename="$USER_HOME$/Sites/DamascusRoad/wp-content/themes/damascus/src/scss/modules/_event.scss" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkJCQkJCQkJPGgzIGNsYXNzPSJldmVudF9fc3VidGl0bGUiPkRhdGU8L2gzPgo=</text>
       </register>
       <register name="-" type="4">
-        <text>0</text>
+        <text encoding="base64">PA==</text>
       </register>
       <register name="/" type="4">
-        <text>lightbox</text>
+        <text>default</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIHRsLnRvKGludHJvVGl0bGUsIDEsIHtvcGFjaXR5OiAxLCB5OiAwfSwgJ2RpdmlkZXJzJyk7Cg==</text>
+      <register name="0" type="4">
+        <text>class=&quot;event__subtitle&quot;</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkJCQkJCQkJPGgzIGNsYXNzPSJldmVudF9fc3VidGl0bGUiPkRhdGU8L2gzPgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IGxhenlMb2FkaW5nIGZyb20gJy4vcGFydGlhbHMvX2xhenlMb2FkaW5nLmpzJzsK</text>
+        <text encoding="base64">CQkJCQkJCQkJPGgzIGNsYXNzPSJldmVudF9fc3VidGl0bGUiPkxvY2F0aW9uPC9oMz4K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGRvY3VtZW50LnF1ZXJ5U2VsZWN0b3IoJy5zcGxhc2gnKS5jbGFzc0xpc3QuYWRkKCdzcGxhc2gtLWlzLWhpZGRlbicpOwogICAgZG9jdW1lbnQucXVlcnlTZWxlY3RvcignYm9keScpLmNsYXNzTGlzdC5yZW1vdmUoJ2lzLW5vdC1zY3JvbGxhYmxlJyk7CiAgICBsYXp5TG9hZGluZy5pbml0KCk7CgogICAgdGwudG8oaW50cm9UaXRsZSwgMSwge29wYWNpdHk6IDEsIHk6IDB9LCAnZGl2aWRlcnMnKTsKCiAgICB0bC50byhkaXZpZGVyQ2lyY2xlLCAxLCB7b3BhY2l0eTogMX0sICdkaXZpZGVycycpOwoKICAgIGZvciAoIGxldCBkaXZpZGVyIG9mIGRpdmlkZXJzICkgewogICAgICB0bC50byhkaXZpZGVyLCAxLCB7d2lkdGg6IDE4MH0sICdkaXZpZGVycycpOwogICAgfQoKICAgIHRsLnRvKGludHJvQ29weSwgMSwge29wYWNpdHk6IDF9KTsKCg==</text>
+        <text encoding="base64">LmV2ZW50X19zdWJ0aXRsZSB7CiAgZm9udC1zaXplOiAxcmVtOwogIG1hcmdpbi1ib3R0b206IDA7Cn0K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICB0bC5zZXQoaW50cm8sIHtvcGFjaXR5OiAweTogMjB9KTsK</text>
+        <text encoding="base64">ICBoMyB7CiAgICAKICB9Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQkJCg==</text>
+        <text encoding="base64">ICAvL2ZvbnQtc2l6ZTogLjltOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQk8P3BocCB0aGVfZmllbGQoICdpbnRybycgKTsgPz4KCQk8YSBocmVmPSI8P3BocCB0aGVfcGVybWFsaW5rKCBnZXRfcGFnZV9ieV90aXRsZSggJ0Fib3V0JyApICk7ID8+Ij5MZWFybiBNb3JlPC9hPgo=</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="7" type="2">
+        <text encoding="base64">LmV2ZW50Xwo=</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHRsLnRvKGludHJvLCAxLCB7b3BhY2l0eTogMSwgeTogMH0pOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgdGwuc2V0KGRpdmlkZXIsIHtvcGFjaXR5OiAwLCB3aWR0aDogMH0pOwo=</text>
+        <text encoding="base64">ICAgIHRleHQtZGVjb3JhdGlvbjogbm9uZTsK</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
       </register>
     </registers>
     <search>
-      <last-search>lightbox</last-search>
+      <last-search>default</last-search>
       <last-offset />
-      <last-pattern>lightbox</last-pattern>
+      <last-pattern>default</last-pattern>
       <last-replace>'</last-replace>
       <last-substitute>&quot;</last-substitute>
       <last-dir>1</last-dir>
@@ -314,6 +360,13 @@
         <entry>fill</entry>
         <entry>main</entry>
         <entry>lightbox</entry>
+        <entry>event</entry>
+        <entry>bindUI</entry>
+        <entry>bindUIEvents</entry>
+        <entry>getThu</entry>
+        <entry>caption</entry>
+        <entry>background-color: rgba</entry>
+        <entry>default</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL3Zhci9sZXQvZw==</entry>
