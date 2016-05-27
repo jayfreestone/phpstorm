@@ -39,11 +39,12 @@
         <mark key="^" line="8" column="20" />
         <mark key="." line="9" column="0" />
       </file>
-      <file name="$USER_HOME$/Sites/DamascusRoad/wp-content/themes/damascus/src/js/partials/_pjax.js" timestamp="1464193354127">
-        <mark key="[" line="2" column="14" />
-        <mark key="]" line="2" column="18" />
-        <mark key="." line="2" column="18" />
-        <mark key="^" line="2" column="18" />
+      <file name="$USER_HOME$/Sites/DamascusRoad/wp-content/themes/damascus/src/js/partials/_pjax.js" timestamp="1464336495968">
+        <mark key="'" line="69" column="11" />
+        <mark key="[" line="67" column="19" />
+        <mark key="]" line="67" column="11" />
+        <mark key="." line="67" column="11" />
+        <mark key="^" line="67" column="11" />
       </file>
       <file name="$USER_HOME$/Sites/DamascusRoad/wp-content/themes/damascus/page-contact.php" timestamp="1464190418295">
         <mark key="[" line="4" column="0" />
@@ -127,6 +128,11 @@
         <mark key="]" line="43" column="20" />
         <mark key="^" line="43" column="20" />
         <mark key="." line="43" column="20" />
+      </file>
+      <file name="$USER_HOME$/Sites/DamascusRoad/wp-content/themes/damascus/src/js/main.js" timestamp="1464336458255">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.js" timestamp="1464187570496">
         <mark key="[" line="0" column="21" />
@@ -244,55 +250,58 @@
       <jump line="14" column="14" filename="$USER_HOME$/Sites/DamascusRoad/wp-content/themes/damascus/src/js/main.js" />
       <jump line="17" column="22" filename="$USER_HOME$/Sites/DamascusRoad/wp-content/themes/damascus/src/js/main.js" />
       <jump line="13" column="6" filename="$USER_HOME$/Sites/DamascusRoad/wp-content/themes/damascus/src/js/main.js" />
+      <jump line="5" column="37" filename="$USER_HOME$/Sites/DamascusRoad/wp-content/themes/damascus/src/scss/modules/_lazyload.scss" />
+      <jump line="7" column="32" filename="$USER_HOME$/Sites/DamascusRoad/wp-content/themes/damascus/src/js/partials/_pjax.js" />
+      <jump line="69" column="11" filename="$USER_HOME$/Sites/DamascusRoad/wp-content/themes/damascus/src/js/partials/_pjax.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>0</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>0</text>
       </register>
       <register name="/" type="4">
-        <text>main</text>
+        <text>lightbox</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIHRsLnRvKGludHJvVGl0bGUsIDEsIHtvcGFjaXR5OiAxLCB5OiAwfSwgJ2RpdmlkZXJzJyk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGRvY3VtZW50LnF1ZXJ5U2VsZWN0b3IoJy5zcGxhc2gnKS5jbGFzc0xpc3QuYWRkKCdzcGxhc2gtLWlzLWhpZGRlbicpOwogICAgZG9jdW1lbnQucXVlcnlTZWxlY3RvcignYm9keScpLmNsYXNzTGlzdC5yZW1vdmUoJ2lzLW5vdC1zY3JvbGxhYmxlJyk7CiAgICBsYXp5TG9hZGluZy5pbml0KCk7CgogICAgdGwudG8oaW50cm9UaXRsZSwgMSwge29wYWNpdHk6IDEsIHk6IDB9LCAnZGl2aWRlcnMnKTsKCiAgICB0bC50byhkaXZpZGVyQ2lyY2xlLCAxLCB7b3BhY2l0eTogMX0sICdkaXZpZGVycycpOwoKICAgIGZvciAoIGxldCBkaXZpZGVyIG9mIGRpdmlkZXJzICkgewogICAgICB0bC50byhkaXZpZGVyLCAxLCB7d2lkdGg6IDE4MH0sICdkaXZpZGVycycpOwogICAgfQoKICAgIHRsLnRvKGludHJvQ29weSwgMSwge29wYWNpdHk6IDF9KTsKCg==</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICB0bC5zZXQoaW50cm8sIHtvcGFjaXR5OiAweTogMjB9KTsK</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">CQkJCg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">CQk8P3BocCB0aGVfZmllbGQoICdpbnRybycgKTsgPz4KCQk8YSBocmVmPSI8P3BocCB0aGVfcGVybWFsaW5rKCBnZXRfcGFnZV9ieV90aXRsZSggJ0Fib3V0JyApICk7ID8+Ij5MZWFybiBNb3JlPC9hPgo=</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">aW1wb3J0IGxhenlMb2FkaW5nIGZyb20gJy4vcGFydGlhbHMvX2xhenlMb2FkaW5nLmpzJzsK</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIGRvY3VtZW50LnF1ZXJ5U2VsZWN0b3IoJy5zcGxhc2gnKS5jbGFzc0xpc3QuYWRkKCdzcGxhc2gtLWlzLWhpZGRlbicpOwogICAgZG9jdW1lbnQucXVlcnlTZWxlY3RvcignYm9keScpLmNsYXNzTGlzdC5yZW1vdmUoJ2lzLW5vdC1zY3JvbGxhYmxlJyk7CiAgICBsYXp5TG9hZGluZy5pbml0KCk7CgogICAgdGwudG8oaW50cm9UaXRsZSwgMSwge29wYWNpdHk6IDEsIHk6IDB9LCAnZGl2aWRlcnMnKTsKCiAgICB0bC50byhkaXZpZGVyQ2lyY2xlLCAxLCB7b3BhY2l0eTogMX0sICdkaXZpZGVycycpOwoKICAgIGZvciAoIGxldCBkaXZpZGVyIG9mIGRpdmlkZXJzICkgewogICAgICB0bC50byhkaXZpZGVyLCAxLCB7d2lkdGg6IDE4MH0sICdkaXZpZGVycycpOwogICAgfQoKICAgIHRsLnRvKGludHJvQ29weSwgMSwge29wYWNpdHk6IDF9KTsKCg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICB0bC5zZXQoaW50cm8sIHtvcGFjaXR5OiAweTogMjB9KTsK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">CQkJCg==</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHRsLnRvKGludHJvLCAxLCB7b3BhY2l0eTogMSwgeTogMH0pOwo=</text>
+        <text encoding="base64">CQk8P3BocCB0aGVfZmllbGQoICdpbnRybycgKTsgPz4KCQk8YSBocmVmPSI8P3BocCB0aGVfcGVybWFsaW5rKCBnZXRfcGFnZV9ieV90aXRsZSggJ0Fib3V0JyApICk7ID8+Ij5MZWFybiBNb3JlPC9hPgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgdGwuc2V0KGRpdmlkZXIsIHtvcGFjaXR5OiAwLCB3aWR0aDogMH0pOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICB3aWR0aDogMXB4Owo=</text>
+        <text encoding="base64">ICAgIHRsLnRvKGludHJvLCAxLCB7b3BhY2l0eTogMSwgeTogMH0pOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgdGwuc2V0KGRpdmlkZXIsIHtvcGFjaXR5OiAwLCB3aWR0aDogMH0pOwo=</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
       </register>
     </registers>
     <search>
-      <last-search>main</last-search>
+      <last-search>lightbox</last-search>
       <last-offset />
-      <last-pattern>main</last-pattern>
+      <last-pattern>lightbox</last-pattern>
       <last-replace>'</last-replace>
       <last-substitute>&quot;</last-substitute>
       <last-dir>1</last-dir>
@@ -304,6 +313,7 @@
         <entry>&quot;</entry>
         <entry>fill</entry>
         <entry>main</entry>
+        <entry>lightbox</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL3Zhci9sZXQvZw==</entry>
