@@ -77,6 +77,12 @@
         <mark key="." line="9" column="47" />
         <mark key="^" line="9" column="47" />
       </file>
+      <file name="$USER_HOME$/Sites/TheMoonUpAbove/Site/src/helpers.jsx" timestamp="1470225100243">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="30" column="0" />
+        <mark key="]" line="30" column="0" />
+        <mark key="." line="30" column="0" />
+      </file>
       <file name="$USER_HOME$/Sites/DamascusRoad/wp-content/themes/damascus/src/scss/modules/_splash.scss" timestamp="1464270012007">
         <mark key="[" line="17" column="14" />
         <mark key="]" line="17" column="19" />
@@ -86,11 +92,12 @@
       <file name="/Dummy.txt" timestamp="1464340903206">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Sites/TheMoonUpAbove/Site/src/pages/Shop.jsx" timestamp="1470218547396">
-        <mark key="[" line="47" column="59" />
-        <mark key="]" line="47" column="61" />
-        <mark key="^" line="47" column="61" />
-        <mark key="." line="47" column="61" />
+      <file name="$USER_HOME$/Sites/TheMoonUpAbove/Site/src/pages/Shop.jsx" timestamp="1470225860316">
+        <mark key="'" line="131" column="39" />
+        <mark key="[" line="141" column="63" />
+        <mark key="]" line="141" column="63" />
+        <mark key="^" line="140" column="41" />
+        <mark key="." line="141" column="63" />
       </file>
       <file name="$USER_HOME$/Sites/DamascusRoad/wp-content/themes/damascus/src/scss/base/_utility.scss" timestamp="1464271282778">
         <mark key="[" line="0" column="0" />
@@ -191,26 +198,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="180" column="0" filename="$USER_HOME$/Sites/DamascusRoad/wp-content/themes/damascus/functions.php" />
-      <jump line="176" column="0" filename="$USER_HOME$/Sites/DamascusRoad/wp-content/themes/damascus/functions.php" />
-      <jump line="165" column="0" filename="$USER_HOME$/Sites/DamascusRoad/wp-content/themes/damascus/functions.php" />
-      <jump line="160" column="0" filename="$USER_HOME$/Sites/DamascusRoad/wp-content/themes/damascus/functions.php" />
-      <jump line="157" column="0" filename="$USER_HOME$/Sites/DamascusRoad/wp-content/themes/damascus/functions.php" />
-      <jump line="145" column="0" filename="$USER_HOME$/Sites/DamascusRoad/wp-content/themes/damascus/functions.php" />
-      <jump line="141" column="0" filename="$USER_HOME$/Sites/DamascusRoad/wp-content/themes/damascus/functions.php" />
-      <jump line="139" column="0" filename="$USER_HOME$/Sites/DamascusRoad/wp-content/themes/damascus/functions.php" />
-      <jump line="127" column="0" filename="$USER_HOME$/Sites/DamascusRoad/wp-content/themes/damascus/functions.php" />
-      <jump line="123" column="0" filename="$USER_HOME$/Sites/DamascusRoad/wp-content/themes/damascus/functions.php" />
-      <jump line="121" column="0" filename="$USER_HOME$/Sites/DamascusRoad/wp-content/themes/damascus/functions.php" />
-      <jump line="119" column="0" filename="$USER_HOME$/Sites/DamascusRoad/wp-content/themes/damascus/functions.php" />
-      <jump line="116" column="0" filename="$USER_HOME$/Sites/DamascusRoad/wp-content/themes/damascus/functions.php" />
-      <jump line="109" column="0" filename="$USER_HOME$/Sites/DamascusRoad/wp-content/themes/damascus/functions.php" />
-      <jump line="93" column="0" filename="$USER_HOME$/Sites/DamascusRoad/wp-content/themes/damascus/functions.php" />
-      <jump line="74" column="0" filename="$USER_HOME$/Sites/DamascusRoad/wp-content/themes/damascus/functions.php" />
-      <jump line="65" column="0" filename="$USER_HOME$/Sites/DamascusRoad/wp-content/themes/damascus/functions.php" />
-      <jump line="62" column="0" filename="$USER_HOME$/Sites/DamascusRoad/wp-content/themes/damascus/functions.php" />
-      <jump line="59" column="0" filename="$USER_HOME$/Sites/DamascusRoad/wp-content/themes/damascus/functions.php" />
-      <jump line="53" column="0" filename="$USER_HOME$/Sites/DamascusRoad/wp-content/themes/damascus/functions.php" />
       <jump line="44" column="0" filename="$USER_HOME$/Sites/DamascusRoad/wp-content/themes/damascus/functions.php" />
       <jump line="0" column="0" filename="$USER_HOME$/Sites/DamascusRoad/wp-content/themes/damascus/functions.php" />
       <jump line="1" column="0" filename="$USER_HOME$/Sites/DamascusRoad/wp-content/themes/damascus/functions.php" />
@@ -291,55 +278,75 @@
       <jump line="0" column="0" filename="$USER_HOME$/Sites/Overture/Wiggin/wp-content/themes/wiggin/page-subscribe.php" />
       <jump line="3" column="8" filename="$USER_HOME$/Sites/TheMoonUpAbove/Site/src/pages/Shop.jsx" />
       <jump line="5" column="23" filename="$USER_HOME$/Sites/TheMoonUpAbove/Site/src/pages/Shop.jsx" />
+      <jump line="49" column="6" filename="$USER_HOME$/Sites/TheMoonUpAbove/Site/src/pages/Shop.jsx" />
+      <jump line="0" column="0" filename="$USER_HOME$/Sites/TheMoonUpAbove/Site/src/helpers.jsx" />
+      <jump line="21" column="30" filename="$USER_HOME$/Sites/TheMoonUpAbove/Site/src/pages/Shop.jsx" />
+      <jump line="67" column="8" filename="$USER_HOME$/Sites/TheMoonUpAbove/Site/src/pages/Shop.jsx" />
+      <jump line="82" column="8" filename="$USER_HOME$/Sites/TheMoonUpAbove/Site/src/pages/Shop.jsx" />
+      <jump line="88" column="17" filename="$USER_HOME$/Sites/TheMoonUpAbove/Site/src/pages/Shop.jsx" />
+      <jump line="92" column="6" filename="$USER_HOME$/Sites/TheMoonUpAbove/Site/src/pages/Shop.jsx" />
+      <jump line="43" column="24" filename="$USER_HOME$/Sites/TheMoonUpAbove/Site/src/pages/Shop.jsx" />
+      <jump line="58" column="31" filename="$USER_HOME$/Sites/TheMoonUpAbove/Site/src/pages/Shop.jsx" />
+      <jump line="122" column="64" filename="$USER_HOME$/Sites/TheMoonUpAbove/Site/src/pages/Shop.jsx" />
+      <jump line="123" column="74" filename="$USER_HOME$/Sites/TheMoonUpAbove/Site/src/pages/Shop.jsx" />
+      <jump line="126" column="40" filename="$USER_HOME$/Sites/TheMoonUpAbove/Site/src/pages/Shop.jsx" />
+      <jump line="163" column="67" filename="$USER_HOME$/Sites/TheMoonUpAbove/Site/src/pages/Shop.jsx" />
+      <jump line="57" column="44" filename="$USER_HOME$/Sites/TheMoonUpAbove/Site/src/pages/Shop.jsx" />
+      <jump line="124" column="103" filename="$USER_HOME$/Sites/TheMoonUpAbove/Site/src/pages/Shop.jsx" />
+      <jump line="113" column="77" filename="$USER_HOME$/Sites/TheMoonUpAbove/Site/src/pages/Shop.jsx" />
+      <jump line="127" column="79" filename="$USER_HOME$/Sites/TheMoonUpAbove/Site/src/pages/Shop.jsx" />
+      <jump line="148" column="187" filename="$USER_HOME$/Sites/TheMoonUpAbove/Site/src/pages/Shop.jsx" />
+      <jump line="13" column="28" filename="$USER_HOME$/Sites/TheMoonUpAbove/Site/src/pages/Shop.jsx" />
+      <jump line="131" column="39" filename="$USER_HOME$/Sites/TheMoonUpAbove/Site/src/pages/Shop.jsx" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>term</text>
+        <text>'</text>
       </register>
       <register name="-" type="4">
-        <text>term</text>
+        <text>'</text>
       </register>
       <register name="/" type="4">
-        <text>config</text>
+        <text>.bind</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgaWYgKGZpbHRlcnNbZmlsdGVyXSAhPT0gJ2FsbCcpIHsKICAgICAgICBxdWVyeVN0cmluZyA9IHF1ZXJ5U3RyaW5nICsgZmlsdGVyICsgJz0nICsgZmlsdGVyc1tmaWx0ZXJdICsgJyYnOwogICAgICB9Cg==</text>
+        <text encoding="base64">ICAgIHRoaXMuc2VhcmNoID0gdGhpcy5zZWFyY2guYmluZCh0aGlzKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgbGV0IHRlcm1zID0gW107Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGZvciAoY29uc3QgZmlsdGVyIGluIGZpbHRlcnMpIHsKICAgICAgaWYgKGZpbHRlcnNbZmlsdGVyXSAhPT0gJ2FsbCcpIHsKICAgICAgICBxdWVyeVN0cmluZyA9IHF1ZXJ5U3RyaW5nICsgZmlsdGVyICsgJz0nICsgZmlsdGVyc1tmaWx0ZXJdICsgJyYnOwogICAgICB9CiAgICB9Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgIGZvciAobGV0IGZpbHRlciBpbiB0aGlzLnByb3BzLnNob3AuZmlsdGVycykgewogICAgfQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IGZpbHRlcnMgPSB0aGlzLnByb3BzLnNob3AuZmlsdGVyczsK</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIC8vIHRoaXMucHJvcHMucmVzZXRQcm9kdWN0cygpOwo=</text>
+        <text encoding="base64">ICAgICAgaWYgKHRoaXMucHJvcHMuc2hvcC5maWx0ZXJzW2ZpbHRlcl0gIT09ICdhbGwnKSB7CiAgICAgICAgZmlsdGVyVG9nZ2xlQ2xhc3MgKz0gJyBmaWx0ZXJfX3RvZ2dsZS0taXMtb24nOwogICAgICAgIHRpdGxlID0gJyc7CiAgICAgIH0K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IHsgaGlzdG9yeSB9IGZyb20gJy4vLi4vc3RvcmUnOwo=</text>
+        <text encoding="base64">ICAgIGMK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IHJlcXdlc3QgZnJvbSAncmVxd2VzdCc7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IHJlcXdlc3QgZnJvbSAncmVxd2VzdCc7Cg==</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2codGF4KTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbmZpZyBmcm9tICcuLi9jb25maWcuanN4JzsK</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHN0ci5zcGxpdCgnICcpKTsK</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
       </register>
     </registers>
     <search>
-      <last-search>config</last-search>
+      <last-search>.bind</last-search>
       <last-offset />
-      <last-pattern>config</last-pattern>
+      <last-pattern>.bind</last-pattern>
       <last-replace>'</last-replace>
       <last-substitute>&quot;</last-substitute>
       <last-dir>1</last-dir>
@@ -347,11 +354,6 @@
     </search>
     <history>
       <history-search>
-        <entry>var</entry>
-        <entry>&quot;</entry>
-        <entry>fill</entry>
-        <entry>main</entry>
-        <entry>lightbox</entry>
         <entry>event</entry>
         <entry>bindUI</entry>
         <entry>bindUIEvents</entry>
@@ -364,6 +366,14 @@
         <entry>submit</entry>
         <entry>Link</entry>
         <entry>config</entry>
+        <entry>toUpperCase</entry>
+        <entry>title</entry>
+        <entry>h.titl</entry>
+        <entry>Loop</entry>
+        <entry>searchBox</entry>
+        <entry>search</entry>
+        <entry>value</entry>
+        <entry>.bind</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL3Zhci9sZXQvZw==</entry>
