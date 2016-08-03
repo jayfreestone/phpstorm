@@ -47,6 +47,18 @@
         <mark key="]" line="13" column="0" />
         <mark key="." line="13" column="0" />
       </file>
+      <file name="$USER_HOME$/Sites/Overture/Wiggin/wp-content/themes/wiggin/submit.php" timestamp="1470213995614">
+        <mark key="[" line="2" column="10" />
+        <mark key="]" line="2" column="10" />
+        <mark key="^" line="2" column="10" />
+        <mark key="." line="2" column="10" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.js" timestamp="1464187570496">
+        <mark key="[" line="0" column="21" />
+        <mark key="]" line="0" column="21" />
+        <mark key="^" line="0" column="21" />
+        <mark key="." line="0" column="21" />
+      </file>
       <file name="$USER_HOME$/Sites/DamascusRoad/wp-content/themes/damascus/functions.php" timestamp="1464270311315">
         <mark key="'" line="177" column="57" />
         <mark key="[" line="88" column="27" />
@@ -117,11 +129,11 @@
         <mark key="^" line="43" column="20" />
         <mark key="." line="43" column="20" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.js" timestamp="1464187570496">
-        <mark key="[" line="0" column="21" />
-        <mark key="]" line="0" column="21" />
-        <mark key="^" line="0" column="21" />
-        <mark key="." line="0" column="21" />
+      <file name="$USER_HOME$/Sites/Overture/Wiggin/wp-content/themes/wiggin/page-subscribe.php" timestamp="1470215974889">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="38" column="0" />
+        <mark key="]" line="38" column="0" />
+        <mark key="." line="38" column="0" />
       </file>
       <file name="$USER_HOME$/Sites/DamascusRoad/wp-content/themes/damascus/page.php" timestamp="1464189060447">
         <mark key="[" line="4" column="0" />
@@ -161,20 +173,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="19" column="57" filename="$USER_HOME$/Sites/DamascusRoad/wp-content/themes/damascus/header.php" />
-      <jump line="13" column="76" filename="$USER_HOME$/Sites/DamascusRoad/wp-content/themes/damascus/header.php" />
-      <jump line="3" column="10" filename="$USER_HOME$/Sites/DamascusRoad/wp-content/themes/damascus/src/js/partials/_grid.js" />
-      <jump line="6" column="12" filename="$USER_HOME$/Sites/DamascusRoad/wp-content/themes/damascus/src/js/partials/_grid.js" />
-      <jump line="20" column="28" filename="$USER_HOME$/Sites/DamascusRoad/wp-content/themes/damascus/header.php" />
-      <jump line="8" column="0" filename="$USER_HOME$/Sites/DamascusRoad/wp-content/themes/damascus/header.php" />
-      <jump line="158" column="9" filename="$USER_HOME$/Sites/DamascusRoad/wp-content/themes/damascus/functions.php" />
-      <jump line="200" column="0" filename="$USER_HOME$/Sites/DamascusRoad/wp-content/themes/damascus/functions.php" />
-      <jump line="190" column="0" filename="$USER_HOME$/Sites/DamascusRoad/wp-content/themes/damascus/functions.php" />
-      <jump line="179" column="0" filename="$USER_HOME$/Sites/DamascusRoad/wp-content/themes/damascus/functions.php" />
-      <jump line="173" column="0" filename="$USER_HOME$/Sites/DamascusRoad/wp-content/themes/damascus/functions.php" />
-      <jump line="24" column="17" filename="$USER_HOME$/Sites/DamascusRoad/wp-content/themes/damascus/header.php" />
-      <jump line="153" column="15" filename="$USER_HOME$/Sites/DamascusRoad/wp-content/themes/damascus/functions.php" />
-      <jump line="203" column="0" filename="$USER_HOME$/Sites/DamascusRoad/wp-content/themes/damascus/functions.php" />
       <jump line="193" column="0" filename="$USER_HOME$/Sites/DamascusRoad/wp-content/themes/damascus/functions.php" />
       <jump line="182" column="0" filename="$USER_HOME$/Sites/DamascusRoad/wp-content/themes/damascus/functions.php" />
       <jump line="180" column="0" filename="$USER_HOME$/Sites/DamascusRoad/wp-content/themes/damascus/functions.php" />
@@ -258,55 +256,72 @@
       <jump line="499" column="7" filename="$USER_HOME$/Sites/DamascusRoad/wp-content/themes/damascus/src/scss/vendor/photoswipe/default-skin/default-skin.scss" />
       <jump line="521" column="4" filename="$USER_HOME$/Sites/DamascusRoad/wp-content/themes/damascus/src/scss/vendor/photoswipe/default-skin/default-skin.scss" />
       <jump line="1" column="0" filename="$USER_HOME$/Sites/DamascusRoad/wp-content/themes/damascus/src/scss/modules/_event.scss" />
+      <jump line="24" column="13" filename="$USER_HOME$/Sites/Overture/Wiggin/wp-content/themes/wiggin/page-subscribe.php" />
+      <jump line="209" column="0" filename="$USER_HOME$/Sites/Overture/Wiggin/wp-content/themes/wiggin/page-subscribe.php" />
+      <jump line="26" column="16" filename="$USER_HOME$/Sites/Overture/Wiggin/wp-content/themes/wiggin/page-subscribe.php" />
+      <jump line="135" column="102" filename="$USER_HOME$/Sites/Overture/Wiggin/wp-content/themes/wiggin/page-subscribe.php" />
+      <jump line="189" column="0" filename="$USER_HOME$/Sites/Overture/Wiggin/wp-content/themes/wiggin/page-subscribe.php" />
+      <jump line="157" column="33" filename="$USER_HOME$/Sites/Overture/Wiggin/wp-content/themes/wiggin/page-subscribe.php" />
+      <jump line="155" column="0" filename="$USER_HOME$/Sites/Overture/Wiggin/wp-content/themes/wiggin/page-subscribe.php" />
+      <jump line="53" column="0" filename="$USER_HOME$/Sites/Overture/Wiggin/wp-content/themes/wiggin/page-subscribe.php" />
+      <jump line="185" column="0" filename="$USER_HOME$/Sites/Overture/Wiggin/wp-content/themes/wiggin/page-subscribe.php" />
+      <jump line="17" column="0" filename="$USER_HOME$/Sites/Overture/Wiggin/wp-content/themes/wiggin/page-subscribe.php" />
+      <jump line="55" column="0" filename="$USER_HOME$/Sites/Overture/Wiggin/wp-content/themes/wiggin/page-subscribe.php" />
+      <jump line="160" column="26" filename="$USER_HOME$/Sites/Overture/Wiggin/wp-content/themes/wiggin/page-subscribe.php" />
+      <jump line="51" column="26" filename="$USER_HOME$/Sites/Overture/Wiggin/wp-content/themes/wiggin/page-subscribe.php" />
+      <jump line="56" column="66" filename="$USER_HOME$/Sites/Overture/Wiggin/wp-content/themes/wiggin/page-subscribe.php" />
+      <jump line="58" column="46" filename="$USER_HOME$/Sites/Overture/Wiggin/wp-content/themes/wiggin/page-subscribe.php" />
+      <jump line="36" column="61" filename="$USER_HOME$/Sites/Overture/Wiggin/wp-content/themes/wiggin/page-subscribe.php" />
+      <jump line="0" column="0" filename="$USER_HOME$/Sites/Overture/Wiggin/wp-content/themes/wiggin/page-subscribe.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">CQkJCQkJCQkJPGgzIGNsYXNzPSJldmVudF9fc3VidGl0bGUiPkRhdGU8L2gzPgo=</text>
-      </register>
-      <register name="-" type="4">
-        <text encoding="base64">PA==</text>
-      </register>
-      <register name="/" type="4">
-        <text>default</text>
-      </register>
-      <register name="0" type="4">
-        <text>class=&quot;event__subtitle&quot;</text>
-      </register>
-      <register name="1" type="2">
-        <text encoding="base64">CQkJCQkJCQkJPGgzIGNsYXNzPSJldmVudF9fc3VidGl0bGUiPkRhdGU8L2gzPgo=</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">CQkJCQkJCQkJPGgzIGNsYXNzPSJldmVudF9fc3VidGl0bGUiPkxvY2F0aW9uPC9oMz4K</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">LmV2ZW50X19zdWJ0aXRsZSB7CiAgZm9udC1zaXplOiAxcmVtOwogIG1hcmdpbi1ib3R0b206IDA7Cn0K</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICBoMyB7CiAgICAKICB9Cg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAvL2ZvbnQtc2l6ZTogLjltOwo=</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="-" type="4">
+        <text>form</text>
+      </register>
+      <register name="/" type="4">
+        <text>submit</text>
+      </register>
+      <register name="0" type="2">
+        <text encoding="base64">CQkJCQkkKGRvY3VtZW50KS5yZWFkeShmdW5jdGlvbigpewo=</text>
+      </register>
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">CQkkZm9ybV9hY3Rpb24gPSAnaHR0cDovL3dpZ2dpbi5kZXYvd3AtY29udGVudC90aGVtZXMvd2lnZ2luL3N1Ym1pdC5waHAnOwo=</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">Ly8JCQkJY3VybF9zZXRvcHQoJGNoLCBDVVJMT1BUX1VSTCwgImh0dHA6Ly93aWdnaW4uZGV2L3dwLWNvbnRlbnQvdGhlbWVzL3dpZ2dpbi9zdWJtaXQucGhwIik7Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">CQk8P3BocAoJCSRpbnB1dF9uYW1lICA9ICdJQV9TdWJzY3JpcHRpb25bXSc7CgkJJGZvcm1fYWN0aW9uID0gJyc7CgoJCSRmb3JtX2ZpcnN0bmFtZSAgICA9ICcnOwoJCSRmb3JtX2xhc3RuYW1lICAgICA9ICcnOwoJCSRmb3JtX2NvbXBhbnkgICAgICA9ICcnOwoJCSRmb3JtX2pvYnRpdGxlICAgICA9ICcnOwoJCSRmb3JtX2VtYWlsICAgICAgICA9ICcnOwoJCSRmb3JtX3RlbCAgICAgICAgICA9ICcnOwoJCSRmb3JtX3N1YnNjcmlwdGlvbiA9IGFycmF5KCk7CgkJPz4KCQk8P3BocCBpZiAoIGlzc2V0KCAkX1BPU1RbJ1Z4Rm9ybV9JQV9GaXJzdE5hbWUnXSApICkgOiA/PgoJCQk8P3BocCAKCQkJCSRyZXF1ZXN0X3F1ZXJ5ID0gYXJyYXkoCgkJCQkJJ3NlY3JldCcgPT4gJzZMZE41eVVUQUFBQUFHc3NNM2h4eHVPcDVramYyM1oxZmNoS28tQlknLAoJCQkJCSdyZXNwb25zZScgPT4gJF9QT1NUWydnLXJlY2FwdGNoYS1yZXNwb25zZSddLAoJCQkJKTsKCgkJCQkkY2ggPSBjdXJsX2luaXQoKTsKCQkJCWN1cmxfc2V0b3B0KCRjaCwgQ1VSTE9QVF9VUkwsICJodHRwczovL3d3dy5nb29nbGUuY29tL3JlY2FwdGNoYS9hcGkvc2l0ZXZlcmlmeSIpOwovLwkJCQljdXJsX3NldG9wdCgkY2gsIENVUkxPUFRfVVJMLCAiaHR0cDovL3dpZ2dpbi5kZXYvd3AtY29udGVudC90aGVtZXMvd2lnZ2luL3N1Ym1pdC5waHAiKTsKCQkJCWN1cmxfc2V0b3B0KCRjaCwgQ1VSTE9QVF9QT1NULCAxKTsKCQkJCWN1cmxfc2V0b3B0KCRjaCwgQ1VSTE9QVF9USU1FT1VULCAxMDApOwoJCQkJY3VybF9zZXRvcHQoJGNoLCBDVVJMT1BUX1JFVFVSTlRSQU5TRkVSLCAxKTsKCQkJCWN1cmxfc2V0b3B0KCRjaCwgQ1VSTE9QVF9QT1NURklFTERTLCAkcmVxdWVzdF9xdWVyeSk7CgoJCQkJJGRhdGEgPSBjdXJsX2V4ZWMoJGNoKTsKCQkJCWN1cmxfY2xvc2UoJGNoKTsKCgkJCQkkcmVzdWx0ID0ganNvbl9kZWNvZGUoJGRhdGEpOwoKCQkJCWlmICgkcmVzdWx0LT5zdWNjZXNzID09PSB0cnVlKSB7CgkJCQkJLy8gJGZvcm1fYWN0aW9uID0gJ2h0dHBzOi8vc2l0ZXMtd2lnZ2luLnZ1dHVyZXZ4LmNvbS9BUEkvRm9ybS9Qcm9jZXNzJzsKCQkJCQkkZm9ybV9hY3Rpb24gPSAnaHR0cDovL3dpZ2dpbi5kZXYvd3AtY29udGVudC90aGVtZXMvd2lnZ2luL3N1Ym1pdC5waHAnOwoJCQkJCSRpbnB1dF9uYW1lID0gc3RyX3JlcGxhY2UoJ1tdJywgJycsICRpbnB1dF9uYW1lKTsKCgkJCQkJJGZvcm1fZmlyc3RuYW1lID0gJF9QT1NUWydWeEZvcm1fSUFfRmlyc3ROYW1lJ107CgkJCQkJJGZvcm1fbGFzdG5hbWUgPSAkX1BPU1RbJ1Z4Rm9ybV9JQV9MYXN0TmFtZSddOwoJCQkJCSRmb3JtX2NvbXBhbnkgPSAkX1BPU1RbJ1Z4Rm9ybV9JQV9Db21wYW55J107CgkJCQkJJGZvcm1fam9idGl0bGUgPSAkX1BPU1RbJ1Z4Rm9ybV9JQV9Kb2JUaXRsZSddOwoJCQkJCSRmb3JtX2VtYWlsID0gJF9QT1NUWydWeEZvcm1fSUFfRW1haWwnXTsKCQkJCQkkZm9ybV90ZWwgPSAkX1BPU1RbJ1Z4Rm9ybV9JQV9UZWxlcGhvbmUnXTsKCQkJCQkkZm9ybV9zdWJzY3JpcHRpb24gPSAkX1BPU1RbJ0lBX1N1YnNjcmlwdGlvbiddOwoJCQkJfQoJCSAgIAk/PgoJCQk8c2NyaXB0PgoJCQkJKGZ1bmN0aW9uICggJCwgd2luZG93LCBkb2N1bWVudCwgdW5kZWZpbmVkICkgewoJCQkJCSQoZG9jdW1lbnQpLnJlYWR5KGZ1bmN0aW9uKCl7CgkJCQkJCWRvY3VtZW50LmdldEVsZW1lbnRCeUlkKCdzdWJzY3JpYmUtZm9ybScpLnN1Ym1pdCgpOwoJCQkJCX0pCgkJCQl9KSggalF1ZXJ5LCB3aW5kb3csIGRvY3VtZW50ICk7CgkJCTwvc2NyaXB0PgoJCTw/cGhwIGVsc2UgOiA/PgoJCQk8c2NyaXB0PgoJCQkJKGZ1bmN0aW9uICggJCwgd2luZG93LCBkb2N1bWVudCwgdW5kZWZpbmVkICkgewoJCQkJCSQoZG9jdW1lbnQpLnJlYWR5KGZ1bmN0aW9uKCkgewoJCQkJCQkkKCcuc3Vic2NyaWJlLWZvcm0nKS5zdWJtaXQoZnVuY3Rpb24gKGV2ZW50KSB7CgkJCQkJCQlldmVudC5wcmV2ZW50RGVmYXVsdCgpOwoKCQkJCQkJCWlmIChncmVjYXB0Y2hhLmdldFJlc3BvbnNlKCkgIT0gJycpIHsKCQkJCQkJCQl0aGlzLnN1Ym1pdCgpOwoJCQkJCQkJfQoJCQkJCQl9KTsKCQkJCQl9KTsKCQkJCX0pKCBqUXVlcnksIHdpbmRvdywgZG9jdW1lbnQgKTsKCQkJPC9zY3JpcHQ+CgkJPD9waHAgZW5kaWY7ID8+Cg==</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">LmV2ZW50Xwo=</text>
+        <text encoding="base64">Ly8JCQkJZWNobyAkZGF0YTsK</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHRleHQtZGVjb3JhdGlvbjogbm9uZTsK</text>
+        <text encoding="base64">CQkJCQkJCWNvbnNvbGUubG9nKGdyZWNhcHRjaGEuZ2V0UmVzcG9uc2UoKSk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
       </register>
     </registers>
     <search>
-      <last-search>default</last-search>
+      <last-search>submit</last-search>
       <last-offset />
-      <last-pattern>default</last-pattern>
+      <last-pattern>submit</last-pattern>
       <last-replace>'</last-replace>
       <last-substitute>&quot;</last-substitute>
       <last-dir>1</last-dir>
@@ -326,6 +341,9 @@
         <entry>caption</entry>
         <entry>background-color: rgba</entry>
         <entry>default</entry>
+        <entry>8589935041</entry>
+        <entry>beejar</entry>
+        <entry>submit</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL3Zhci9sZXQvZw==</entry>
@@ -351,6 +369,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="ide">
         <text>ctrl pressed H</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed A</text>
       </shortcut-conflict>
     </shortcut-conflicts>
     <editor>
