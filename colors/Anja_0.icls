@@ -654,13 +654,6 @@
         <option name="FOREGROUND" value="2f6f9f" />
       </value>
     </option>
-    <option name="HYPERLINK_ATTRIBUTES">
-      <value>
-        <option name="FOREGROUND" value="ff" />
-        <option name="EFFECT_COLOR" value="ff" />
-        <option name="EFFECT_TYPE" value="1" />
-      </value>
-    </option>
     <option name="INI.COMMENT">
       <value>
         <option name="FOREGROUND" value="999999" />
