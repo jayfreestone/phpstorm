@@ -19,11 +19,12 @@
       <file name="/a.dummy" timestamp="1470239985172">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Sites/TheMoonUpAbove/Site/src/scss/modules/_shop.scss" timestamp="1470308716124">
-        <mark key="[" line="18" column="15" />
-        <mark key="]" line="18" column="16" />
-        <mark key="^" line="18" column="19" />
-        <mark key="." line="18" column="16" />
+      <file name="$USER_HOME$/Sites/TheMoonUpAbove/Site/src/scss/modules/_shop.scss" timestamp="1470310603954">
+        <mark key="'" line="5" column="28" />
+        <mark key="[" line="33" column="19" />
+        <mark key="]" line="34" column="14" />
+        <mark key="^" line="34" column="14" />
+        <mark key="." line="34" column="14" />
       </file>
       <file name="$USER_HOME$/Sites/TheMoonUpAbove/Site/src/pages/Checkout.jsx" timestamp="1470232403161">
         <mark key="[" line="1" column="13" />
@@ -80,12 +81,12 @@
         <mark key="^" line="73" column="54" />
         <mark key="." line="73" column="54" />
       </file>
-      <file name="$USER_HOME$/Sites/TheMoonUpAbove/Site/src/pages/Shop.jsx" timestamp="1470241636178">
-        <mark key="'" line="156" column="38" />
-        <mark key="[" line="138" column="40" />
-        <mark key="]" line="139" column="17" />
-        <mark key="^" line="139" column="17" />
-        <mark key="." line="139" column="17" />
+      <file name="$USER_HOME$/Sites/TheMoonUpAbove/Site/src/pages/Shop.jsx" timestamp="1470310497135">
+        <mark key="'" line="119" column="27" />
+        <mark key="[" line="120" column="28" />
+        <mark key="]" line="120" column="33" />
+        <mark key="^" line="120" column="33" />
+        <mark key="." line="120" column="33" />
       </file>
       <file name="$USER_HOME$/Sites/DamascusRoad/wp-content/themes/damascus/src/scss/base/_utility.scss" timestamp="1464271282778">
         <mark key="[" line="0" column="0" />
@@ -257,8 +258,12 @@
         <mark key="^" line="10" column="71" />
         <mark key="." line="10" column="71" />
       </file>
-      <file name="$USER_HOME$/Sites/TheMoonUpAbove/Site/src/scss/modules/_filter.scss" timestamp="1470308637255">
-        <mark key="'" line="42" column="18" />
+      <file name="$USER_HOME$/Sites/TheMoonUpAbove/Site/src/scss/modules/_filter.scss" timestamp="1470310552095">
+        <mark key="'" line="39" column="18" />
+        <mark key="[" line="112" column="0" />
+        <mark key="]" line="112" column="0" />
+        <mark key="." line="112" column="0" />
+        <mark key="^" line="13" column="1" />
       </file>
       <file name="$USER_HOME$/Sites/TheMoonUpAbove/Site/src/pages/BlogListing.jsx" timestamp="1470229281139">
         <mark key="'" line="48" column="26" />
@@ -316,11 +321,13 @@
         <mark key="." line="20" column="0" />
         <mark key="^" line="25" column="36" />
       </file>
+      <file name="$USER_HOME$/Sites/TheMoonUpAbove/Site/src/scss/modules/_product-preview.scss" timestamp="1470310003223">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="15" column="11" filename="$USER_HOME$/Sites/TheMoonUpAbove/Site/src/components/Modal.jsx" />
-      <jump line="16" column="11" filename="$USER_HOME$/Sites/TheMoonUpAbove/Site/src/components/Modal.jsx" />
-      <jump line="17" column="11" filename="$USER_HOME$/Sites/TheMoonUpAbove/Site/src/components/Modal.jsx" />
       <jump line="35" column="60" filename="$USER_HOME$/Sites/TheMoonUpAbove/Site/src/components/Modal.jsx" />
       <jump line="0" column="5" filename="$USER_HOME$/Sites/TheMoonUpAbove/Site/src/components/Modal.jsx" />
       <jump line="7" column="52" filename="$USER_HOME$/Sites/TheMoonUpAbove/Site/src/components/Pagination.jsx" />
@@ -418,55 +425,58 @@
       <jump line="27" column="2" filename="$USER_HOME$/Sites/TheMoonUpAbove/Site/src/components/SiteNavItem.jsx" />
       <jump line="28" column="28" filename="$USER_HOME$/Sites/TheMoonUpAbove/Site/src/components/SiteNavItem.jsx" />
       <jump line="42" column="18" filename="$USER_HOME$/Sites/TheMoonUpAbove/Site/src/scss/modules/_filter.scss" />
+      <jump line="98" column="20" filename="$USER_HOME$/Sites/TheMoonUpAbove/Site/src/pages/Shop.jsx" />
+      <jump line="5" column="28" filename="$USER_HOME$/Sites/TheMoonUpAbove/Site/src/scss/modules/_shop.scss" />
+      <jump line="120" column="27" filename="$USER_HOME$/Sites/TheMoonUpAbove/Site/src/pages/Shop.jsx" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>ruple</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIHBvc2l0aW9uOiBhYnNvbHV0ZTsK</text>
       </register>
       <register name="-" type="4">
-        <text>ruple</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>heading</text>
+        <text>filter__search</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIHByb3BzLmhhbmRsZU5hdkNsaWNrKGNhdC5zbHVnKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgIHBvc2l0aW9uOiBhYnNvbHV0ZTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICBpbnB1dFt0eXBlPSJzZWFyY2giXSB7CiAgICBiYWNrZ3JvdW5kOiAjZmZmOwogIH0KCiAgaW5wdXQ6cGxhY2Vob2xkZXItc2hvd24gKyBidXR0b24gewogICAgb3BhY2l0eTogLjU7CiAgfQoKICBidXR0b24gewogICAgcGFkZGluZzogMDsKICAgIHRyYW5zaXRpb246IGFsbCAuM3M7CiAgICBwb3NpdGlvbjogYWJzb2x1dGU7CiAgICB0b3A6IDUwJTsKICAgIHRyYW5zZm9ybTogdHJhbnNsYXRlWSgtNTAlKTsKICAgIHJpZ2h0OiAuNXJlbTsKICAgIHdpZHRoOiAxcmVtOwogICAgaGVpZ2h0OiAxcmVtOwogICAgb3BhY2l0eTogMTsKICB9Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIDxoNCBjbGFzc05hbWU9ImZpbHRlcl9faGVhZGluZyBmaWx0ZXJfX2hlYWRpbmctLXNlYXJjaCI+U2VhcmNoPC9oND4K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBoYW5kbGVOYXZDbGljaygpIHsKICAgIHRoaXMucHJvcHMuaGFuZGxlTmF2Q2xpY2soJycpOwogICAgdGhpcy5uYXZJdGVtLmNsYXNzTGlzdC5yZW1vdmUodmlzaWJsZUNsYXNzKTsKICB9Cgo=</text>
+        <text encoding="base64">CiAgQG1lZGlhIGFsbCBhbmQgKG1pbi13aWR0aDogNjBlbSkgewogICAgbWFyZ2luLXRvcDogMDsKICAgIG1hcmdpbi1ib3R0b206IDJyZW07CiAgICBwYWRkaW5nLWJvdHRvbTogMS41cmVtOwogICAgYm9yZGVyLWJvdHRvbTogMXB4IHNvbGlkICRncmV5LS1saWdodDsKICB9Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAvLyBjb25zdHJ1Y3RvcigpIHsKICAvLyAgIHN1cGVyKCk7CiAgLy8gfQo=</text>
+        <text encoding="base64">ICBtYXJnaW4tYm90dG9tOiAxLjVyZW07CiAgbWFyZ2luLXRvcDogJG1vYmlsZS1maWx0ZXItaGVpZ2h0ICsgMS41cmVtOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICA8aDEgY2xhc3NOYW1lPSJzaG9wX190aXRsZSI+e3RpdGxlfTwvaDE+CiAgICAgICAgPGg0IGNsYXNzTmFtZT0iZmlsdGVyX19oZWFkaW5nIGZpbHRlcl9faGVhZGluZy0tc2VhcmNoIj5TZWFyY2g8L2g0PgogICAgICAgIDxmb3JtIGNsYXNzTmFtZT0iZmlsdGVyX19zZWFyY2giIGFjdGlvbj0iIiBvblN1Ym1pdD17dGhpcy5zZWFyY2h9PgogICAgICAgICAgPGlucHV0CiAgICAgICAgICAgIHJlZj17YyA9PiB0aGlzLnNlYXJjaEJveCA9IGN9CiAgICAgICAgICAgIHR5cGU9InNlYXJjaCIKICAgICAgICAgICAgcGxhY2Vob2xkZXI9IkVudGVyIHF1ZXJ5JmhlbGxpcDsiCiAgICAgICAgICAgIHZhbHVlPXtzaG9wLnNlYXJjaH0KICAgICAgICAgIC8+CiAgICAgICAgICA8YnV0dG9uIHR5cGU9InN1Ym1pdCI+CiAgICAgICAgICAgIDxpbWcgc3JjPSIvaW1nL2ljb24tc2VhcmNoLnN2ZyIgYWx0PSJTZWFyY2ggSWNvbiIvPgogICAgICAgICAgPC9idXR0b24+CiAgICAgICAgPC9mb3JtPgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CiAgICAgICAgY29uc3QgdmlzaWJsZUNsYXNzID0gJ3NpdGUtaGVhZGVyX19uYXZfX2hhcy1jaGlsZHJlbi0taXMtdmlzaWJsZSc7CgogICAgICAgIHRoaXMubmF2SXRlbS5hZGRFdmVudExpc3RlbmVyKCdtb3VzZW92ZXInLCBmdW5jdGlvbiBuYXZNb3VzZUVudGVyKCkgewogICAgICAgICAgaWYgKCF0aGlzLmNsYXNzTGlzdC5jb250YWlucyh2aXNpYmxlQ2xhc3MpKSB7CiAgICAgICAgICAgIHRoaXMuY2xhc3NMaXN0LmFkZCh2aXNpYmxlQ2xhc3MpOwogICAgICAgICAgfQogICAgICAgIH0pOwoKICAgICAgICB0aGlzLm5hdkl0ZW0uYWRkRXZlbnRMaXN0ZW5lcignbW91c2VsZWF2ZScsIGZ1bmN0aW9uIG5hdk1vdXNlTGVhdmUoKSB7CiAgICAgICAgICBpZiAodGhpcy5jbGFzc0xpc3QuY29udGFpbnModmlzaWJsZUNsYXNzKSkgewogICAgICAgICAgICB0aGlzLmNsYXNzTGlzdC5yZW1vdmUodmlzaWJsZUNsYXNzKTsKICAgICAgICAgIH0KICAgICAgICB9KTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDxoNCBjbGFzc05hbWU9ImZpbHRlcl9faGVhZGluZyBmaWx0ZXJfX2hlYWRpbmctLXNlYXJjaCI+U2VhcmNoPC9oND4KICAgICAgICAgICAgICAgIDxmb3JtIGNsYXNzTmFtZT0iZmlsdGVyX19zZWFyY2giIGFjdGlvbj0iIiBvblN1Ym1pdD17dGhpcy5zZWFyY2h9PgogICAgICAgICAgICAgICAgICA8aW5wdXQKICAgICAgICAgICAgICAgICAgICByZWY9e2MgPT4gdGhpcy5zZWFyY2hCb3ggPSBjfQogICAgICAgICAgICAgICAgICAgIHR5cGU9InNlYXJjaCIKICAgICAgICAgICAgICAgICAgICBwbGFjZWhvbGRlcj0iRW50ZXIgcXVlcnkmaGVsbGlwOyIKICAgICAgICAgICAgICAgICAgICB2YWx1ZT17c2hvcC5zZWFyY2h9CiAgICAgICAgICAgICAgICAgIC8+CiAgICAgICAgICAgICAgICAgIDxidXR0b24gdHlwZT0ic3VibWl0Ij4KICAgICAgICAgICAgICAgICAgICA8aW1nIHNyYz0iL2ltZy9pY29uLXNlYXJjaC5zdmciIGFsdD0iU2VhcmNoIEljb24iLz4KICAgICAgICAgICAgICAgICAgPC9idXR0b24+CiAgICAgICAgICAgICAgICA8L2Zvcm0+Cg==</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
       </register>
     </registers>
     <search>
-      <last-search>heading</last-search>
+      <last-search>filter__search</last-search>
       <last-offset />
-      <last-pattern>heading</last-pattern>
+      <last-pattern>filter__search</last-pattern>
       <last-replace>'</last-replace>
       <last-substitute>&quot;</last-substitute>
       <last-dir>1</last-dir>
@@ -474,9 +484,6 @@
     </search>
     <history>
       <history-search>
-        <entry>props</entry>
-        <entry>cart</entry>
-        <entry>REMOVE</entry>
         <entry>remove</entry>
         <entry>siteNav-Shop</entry>
         <entry>ref=</entry>
@@ -494,6 +501,9 @@
         <entry encoding="base64">YyA9Pg==</entry>
         <entry>handleNavClick</entry>
         <entry>heading</entry>
+        <entry>search</entry>
+        <entry>title</entry>
+        <entry>filter__search</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL3Zhci9sZXQvZw==</entry>
