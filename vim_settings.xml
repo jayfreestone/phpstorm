@@ -22,12 +22,12 @@
         <mark key="." line="113" column="20" />
         <mark key="^" line="113" column="20" />
       </file>
-      <file name="$USER_HOME$/Sites/TheMoonUpAbove/Site/src/pages/Checkout.jsx" timestamp="1470657295259">
+      <file name="$USER_HOME$/Sites/TheMoonUpAbove/Site/src/pages/Checkout.jsx" timestamp="1470660071745">
         <mark key="'" line="398" column="49" />
-        <mark key="[" line="198" column="0" />
-        <mark key="]" line="199" column="49" />
-        <mark key="." line="199" column="49" />
-        <mark key="^" line="199" column="49" />
+        <mark key="[" line="82" column="4" />
+        <mark key="]" line="82" column="9" />
+        <mark key="." line="82" column="9" />
+        <mark key="^" line="82" column="9" />
       </file>
       <file name="$USER_HOME$/Sites/TheMoonUpAbove/Site/src/actions/actionCreators.jsx" timestamp="1470391178904">
         <mark key="'" line="369" column="0" />
@@ -650,11 +650,11 @@
       <jump line="12" column="15" filename="$USER_HOME$/Sites/TheMoonUpAbove/Site/src/components/ProductTableRow.jsx" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>container</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIGxldCBjYXJkVHlwZSA9ICcnOwo=</text>
       </register>
       <register name="-" type="4">
-        <text>container</text>
+        <text encoding="base64">cmV0dXJuIA==</text>
       </register>
       <register name="/" type="4">
         <text>remove</text>
@@ -663,31 +663,31 @@
         <text encoding="base64">ICBAaW5jbHVkZSBzYW5zKCk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgIGxldCBjYXJkVHlwZSA9ICcnOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIC8vIGZvciAoY29uc3QgY2FyZCBvZiBPYmplY3Qua2V5cyhyZSkpIHsKICAgIC8vICAgaWYgKHJlW2NhcmRdLnRlc3QoY2FyZE51bWJlckpvaW5lZCkpIHsKICAgIC8vICAgICAvLyBJZiBpdCBtYXRjaGVzLCBzZXQgdGhlIGNhcmRUeXBlIHRvIHRoZSBtYXRjaGluZyB0ZXN0CiAgICAvLyAgICAgY2FyZFR5cGUgPSBjYXJkOwogICAgLy8gICAgIGJyZWFrOwogICAgLy8gICB9CiAgICAvLyB9Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHByb3BzLmNhcnQubGVuZ3RoKTsK</text>
+        <text encoding="base64">ICAgIC8vIC8vIFJ1biB0ZXN0cyB1bnRpbCB3ZSBoYXZlIGEgbWF0Y2gK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGxldCBzaGlwcGluZ01ldGhvZDsK</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgc2hpcHBpbmdNZXRob2QgPSAoCiAgICAgICAgPGRpdiBjbGFzc05hbWU9ImZvcm1fX3JhZGlvIj4KICAgICAgICAgIDxpbnB1dAogICAgICAgICAgICBpZD0iZm9ybS1zaGlwcGluZy11ayIKICAgICAgICAgICAgdHlwZT0icmFkaW8iCiAgICAgICAgICAgIG5hbWU9InNoaXBwaW5nIgogICAgICAgICAgICB2YWx1ZT0iVUsiCiAgICAgICAgICAgIGNoZWNrZWQ9e3RydWV9CiAgICAgICAgICAgIGRpc2FibGVkPXt0cnVlfQogICAgICAgICAgLz4KICAgICAgICAgIDxsYWJlbCBodG1sRm9yPSJmb3JtLXNoaXBwaW5nLXVrIj5GcmVlIFVLIERlbGl2ZXJ5PC9sYWJlbD4KICAgICAgICA8L2Rpdj4KICAgICAgKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICA8ZGl2IGNsYXNzTmFtZT0iZm9ybV9fcmFkaW8iPgogICAgICAgICAgPGlucHV0CiAgICAgICAgICAgIGlkPSJmb3JtLXNoaXBwaW5nLXVrIgogICAgICAgICAgICB0eXBlPSJyYWRpbyIKICAgICAgICAgICAgbmFtZT0ic2hpcHBpbmciCiAgICAgICAgICAgIHZhbHVlPSJVSyIKICAgICAgICAgICAgY2hlY2tlZD17dHJ1ZX0KICAgICAgICAgICAgZGlzYWJsZWQ9e3RydWV9CiAgICAgICAgICAvPgogICAgICAgICAgPGxhYmVsIGh0bWxGb3I9ImZvcm0tc2hpcHBpbmctdWsiPkZyZWUgVUsgRGVsaXZlcnk8L2xhYmVsPgogICAgICAgIDwvZGl2Pgo=</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHByb3BzLmNhcnQubGVuZ3RoKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
