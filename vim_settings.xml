@@ -423,8 +423,11 @@
         <mark key="." line="2" column="0" />
         <mark key="^" line="456" column="7" />
       </file>
-      <file name="$USER_HOME$/Sites/TheMoonUpAbove/Site/src/components/Modal.jsx" timestamp="1470671139374">
-        <mark key="'" line="23" column="11" />
+      <file name="$USER_HOME$/Sites/TheMoonUpAbove/Site/src/components/Modal.jsx" timestamp="1470671944181">
+        <mark key="'" line="37" column="9" />
+        <mark key="[" line="37" column="10" />
+        <mark key="]" line="37" column="10" />
+        <mark key="." line="37" column="10" />
       </file>
       <file name="$USER_HOME$/Sites/TheMoonUpAbove/Site/src/scss/base/_variables.scss" timestamp="1470668377917">
         <mark key="[" line="6" column="23" />
@@ -490,11 +493,11 @@
         <mark key="." line="17" column="6" />
         <mark key="^" line="17" column="5" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_1.php" timestamp="1470671430730">
-        <mark key="[" line="2" column="15" />
-        <mark key="]" line="2" column="15" />
-        <mark key="." line="2" column="15" />
-        <mark key="^" line="2" column="18" />
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_1.php" timestamp="1470671575760">
+        <mark key="'" line="2" column="13" />
+        <mark key="[" line="2" column="12" />
+        <mark key="]" line="2" column="14" />
+        <mark key="." line="2" column="12" />
       </file>
       <file name="$USER_HOME$/Sites/TheMoonUpAbove/Site/src/pages/About.jsx" timestamp="1470405519625">
         <mark key="'" line="26" column="18" />
@@ -567,12 +570,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="67" column="19" filename="$USER_HOME$/Sites/TheMoonUpAbove/Site/src/components/ProductTable.jsx" />
-      <jump line="430" column="25" filename="$USER_HOME$/Sites/TheMoonUpAbove/Site/src/pages/Checkout.jsx" />
-      <jump line="51" column="4" filename="$USER_HOME$/Sites/TheMoonUpAbove/Site/src/pages/SingleProduct.jsx" />
-      <jump line="7" column="24" filename="$USER_HOME$/Sites/TheMoonUpAbove/Site/src/pages/SingleProduct.jsx" />
-      <jump line="12" column="5" filename="$USER_HOME$/Sites/TheMoonUpAbove/Site/src/pages/SingleProduct.jsx" />
-      <jump line="17" column="28" filename="$USER_HOME$/Sites/TheMoonUpAbove/Site/src/pages/SingleProduct.jsx" />
       <jump line="18" column="36" filename="$USER_HOME$/Sites/TheMoonUpAbove/Site/src/pages/SingleProduct.jsx" />
       <jump line="147" column="20" filename="$USER_HOME$/Sites/TheMoonUpAbove/Site/src/pages/SingleProduct.jsx" />
       <jump line="72" column="62" filename="$USER_HOME$/Sites/TheMoonUpAbove/Site/src/components/ProductTable.jsx" />
@@ -667,13 +664,19 @@
       <jump line="153" column="20" filename="$USER_HOME$/Sites/TheMoonUpAbove/Site/src/pages/Checkout.jsx" />
       <jump line="157" column="20" filename="$USER_HOME$/Sites/TheMoonUpAbove/Site/src/pages/Checkout.jsx" />
       <jump line="46" column="1" filename="$USER_HOME$/Sites/TheMoonUpAbove/Site/src/routes.jsx" />
+      <jump line="35" column="7" filename="$USER_HOME$/Sites/TheMoonUpAbove/Site/src/components/Modal.jsx" />
+      <jump line="44" column="7" filename="$USER_HOME$/Sites/TheMoonUpAbove/Site/src/components/Modal.jsx" />
+      <jump line="41" column="11" filename="$USER_HOME$/Sites/TheMoonUpAbove/Site/src/components/Modal.jsx" />
+      <jump line="42" column="9" filename="$USER_HOME$/Sites/TheMoonUpAbove/Site/src/components/Modal.jsx" />
+      <jump line="1" column="2" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_1.php" />
+      <jump line="2" column="13" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_1.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>test</text>
+        <text encoding="base64">CW4K</text>
       </register>
       <register name="-" type="4">
-        <text>test</text>
+        <text>&quot;&quot;</text>
       </register>
       <register name="/" type="4">
         <text>modal</text>
@@ -681,32 +684,32 @@
       <register name="0" type="2">
         <text encoding="base64">ICBhbmltYXRpb246IGZhZGVVcCAxcyBiYWNrd2FyZHM7Cg==</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">CQo=</text>
+      <register name="1" type="4">
+        <text encoding="base64">Cgk8YSBocmVmPSIiPnRlc3Q8L2E+Cg==</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgPHA+VGhlIHRocmVlIGRpZ2l0IHNlY3VyaXR5IGNvZGUgaXMgZm91bmQgb24gdGhlIGJhY2sgb2YgbW9zdCBjcmVkaXQgY2FyZHMuIEZvciBtb3JlIGluZm9ybWF0aW9uIDxhIGhyZWY9Imh0dHBzOi8vd3d3LmN2dm51bWJlci5jb20vIiB0YXJnZXQ9Il9ibGFuayI+Y2xpY2sgaGVyZTwvYT4uPC9wPgo=</text>
+      <register name="2" type="4">
+        <text encoding="base64">Cgk8YSBocmVmPSIiPnRlc3Q8L2E+Cg==</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgPC9wPgo=</text>
+      <register name="3" type="4">
+        <text encoding="base64">Cgk8YSBocmVmPSIiPnRlc3Q8L2E+Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGxldCBtb2RhbDsK</text>
+        <text encoding="base64">CW4K</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+      <register name="5" type="4">
+        <text encoding="base64">CiAgICAgICAgICAgIDxoMj57dGhpcy5wcm9wcy50aXRsZX08L2gyPgogICAgICAgICAgICA8YnV0dG9uIHJlZj17YyA9PiB0aGlzLm1vZGFsQ2xvc2VCdXR0b24gPSBjfT4KICAgICAgICAgICAgICA8aW1nIHJlZj17YyA9PiB0aGlzLm1vZGFsQ3Jvc3MgPSBjfSBzcmM9Ii9pbWcvaWNvbi1jbG9zZS5zdmciIGFsdD0iQ2xvc2UgSWNvbiIgLz4KICAgICAgICAgICAgPC9idXR0b24+CiAgICAgICAgICA=</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIGlmICh0aGlzLnN0YXRlLm1vZGFsSXNPcGVuKSB7Cg==</text>
+      <register name="6" type="4">
+        <text encoding="base64">IHRoaXMubW9kYWxDbG9zZUJ1dHRvbiA9IGN9PgogICAgICAgICAgICAgIDxpbWcgcmVmPXtjID0+IHRoaXMubW9kYWxDcm9zcyA9IGN9IHNyYz0iL2ltZy9pY29uLWNsb3NlLnN2ZyIgYWx0PSJDbG9zZSBJY29uIiAvPgogICAgICAgICAgICA=</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+      <register name="7" type="4">
+        <text encoding="base64">CiAgICAgICAgICAgIDxoMj57dGhpcy5wcm9wcy50aXRsZX08L2gyPgogICAgICAgICAgICA8YnV0dG9uIHJlZj17YyA9PiB0aGlzLm1vZGFsQ2xvc2VCdXR0b24gPSBjfT4KICAgICAgICAgICAgICA8aW1nIHJlZj17YyA9PiB0aGlzLm1vZGFsQ3Jvc3MgPSBjfSBzcmM9Ii9pbWcvaWNvbi1jbG9zZS5zdmciIGFsdD0iQ2xvc2UgSWNvbiIgLz4KICAgICAgICAgICAgPC9idXR0b24+CiAgICAgICAgICA=</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">Ci8vLnByb2R1Y3RfX2dhbGxlcnkgewovLyAgd2lkdGg6IDEwMCU7Ci8vfQo=</text>
+      <register name="8" type="4">
+        <text encoding="base64">CiAgICAgICAgICA8aGVhZGVyIGNsYXNzTmFtZT0ibW9kYWxfX2hlYWRlciI+CiAgICAgICAgICAgIDxoMj57dGhpcy5wcm9wcy50aXRsZX08L2gyPgogICAgICAgICAgICA8YnV0dG9uIHJlZj17YyA9PiB0aGlzLm1vZGFsQ2xvc2VCdXR0b24gPSBjfT4KICAgICAgICAgICAgICA8aW1nIHJlZj17YyA9PiB0aGlzLm1vZGFsQ3Jvc3MgPSBjfSBzcmM9Ii9pbWcvaWNvbi1jbG9zZS5zdmciIGFsdD0iQ2xvc2UgSWNvbiIgLz4KICAgICAgICAgICAgPC9idXR0b24+CiAgICAgICAgICA8L2hlYWRlcj4KICAgICAgICAgIHt0aGlzLnByb3BzLmNvbnRlbnR9CiAgICAgICAg</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAvL2FuaW1hdGlvbi1maWxsLW1vZGU6IGZvcndhcmRzOwo=</text>
+      <register name="9" type="4">
+        <text encoding="base64">CiAgICAgICAgICA8aGVhZGVyIGNsYXNzTmFtZT0ibW9kYWxfX2hlYWRlciI+CiAgICAgICAgICAgIDxoMj57dGhpcy5wcm9wcy50aXRsZX08L2gyPgogICAgICAgICAgICA8YnV0dG9uIHJlZj17YyA9PiB0aGlzLm1vZGFsQ2xvc2VCdXR0b24gPSBjfT4KICAgICAgICAgICAgICA8aW1nIHJlZj17YyA9PiB0aGlzLm1vZGFsQ3Jvc3MgPSBjfSBzcmM9Ii9pbWcvaWNvbi1jbG9zZS5zdmciIGFsdD0iQ2xvc2UgSWNvbiIgLz4KICAgICAgICAgICAgPC9idXR0b24+CiAgICAgICAgICA8L2hlYWRlcj4KICAgICAgICAgIHt0aGlzLnByb3BzLmNvbnRlbnR9CiAgICAgICAg</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
