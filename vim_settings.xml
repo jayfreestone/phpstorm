@@ -423,11 +423,12 @@
         <mark key="." line="2" column="0" />
         <mark key="^" line="456" column="7" />
       </file>
-      <file name="$USER_HOME$/Sites/TheMoonUpAbove/Site/src/components/Modal.jsx" timestamp="1470671944181">
+      <file name="$USER_HOME$/Sites/TheMoonUpAbove/Site/src/components/Modal.jsx" timestamp="1470672058510">
         <mark key="'" line="37" column="9" />
-        <mark key="[" line="37" column="10" />
-        <mark key="]" line="37" column="10" />
-        <mark key="." line="37" column="10" />
+        <mark key="[" line="42" column="21" />
+        <mark key="]" line="42" column="21" />
+        <mark key="." line="42" column="21" />
+        <mark key="^" line="48" column="0" />
       </file>
       <file name="$USER_HOME$/Sites/TheMoonUpAbove/Site/src/scss/base/_variables.scss" timestamp="1470668377917">
         <mark key="[" line="6" column="23" />
@@ -673,10 +674,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">CW4K</text>
+        <text>}</text>
       </register>
       <register name="-" type="4">
-        <text>&quot;&quot;</text>
+        <text>}</text>
       </register>
       <register name="/" type="4">
         <text>modal</text>
@@ -754,6 +755,9 @@
         <entry>275</entry>
         <entry>291</entry>
         <entry>q</entry>
+        <entry>wincmd k</entry>
+        <entry>wincmd h</entry>
+        <entry>wincmd l</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -776,6 +780,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed A</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed L</text>
       </shortcut-conflict>
     </shortcut-conflicts>
     <editor>
