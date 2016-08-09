@@ -31,12 +31,11 @@
         <mark key="." line="113" column="20" />
         <mark key="^" line="113" column="20" />
       </file>
-      <file name="$USER_HOME$/Sites/TheMoonUpAbove/Site/src/pages/Checkout.jsx" timestamp="1470751819779">
-        <mark key="'" line="113" column="37" />
-        <mark key="[" line="73" column="4" />
-        <mark key="]" line="73" column="8" />
-        <mark key="." line="73" column="8" />
-        <mark key="^" line="73" column="8" />
+      <file name="$USER_HOME$/Sites/TheMoonUpAbove/Site/src/pages/Checkout.jsx" timestamp="1470760362906">
+        <mark key="'" line="81" column="36" />
+        <mark key="[" line="83" column="0" />
+        <mark key="]" line="83" column="0" />
+        <mark key="." line="83" column="0" />
       </file>
       <file name="$USER_HOME$/Sites/TheMoonUpAbove/Site/src/actions/actionCreators.jsx" timestamp="1470391178904">
         <mark key="'" line="369" column="0" />
@@ -238,12 +237,12 @@
         <mark key="." line="1" column="15" />
         <mark key="^" line="1" column="17" />
       </file>
-      <file name="$USER_HOME$/Sites/TheMoonUpAbove/Site/src/components/ProductTable.jsx" timestamp="1470656888970">
-        <mark key="'" line="101" column="2" />
-        <mark key="[" line="102" column="38" />
-        <mark key="]" line="102" column="38" />
-        <mark key="^" line="73" column="62" />
-        <mark key="." line="102" column="38" />
+      <file name="$USER_HOME$/Sites/TheMoonUpAbove/Site/src/components/ProductTable.jsx" timestamp="1470759956073">
+        <mark key="'" line="103" column="2" />
+        <mark key="[" line="75" column="0" />
+        <mark key="]" line="75" column="16" />
+        <mark key="^" line="76" column="21" />
+        <mark key="." line="75" column="16" />
       </file>
       <file name="$USER_HOME$/Sites/TheMoonUpAbove/Site/index.html" timestamp="1470404315345">
         <mark key="[" line="11" column="0" />
@@ -373,11 +372,11 @@
         <mark key="." line="14" column="34" />
         <mark key="^" line="14" column="34" />
       </file>
-      <file name="$USER_HOME$/Sites/TheMoonUpAbove/Site/src/helpers.jsx" timestamp="1470750944027">
-        <mark key="[" line="54" column="54" />
-        <mark key="]" line="54" column="57" />
-        <mark key="^" line="54" column="57" />
-        <mark key="." line="54" column="57" />
+      <file name="$USER_HOME$/Sites/TheMoonUpAbove/Site/src/helpers.jsx" timestamp="1470759732367">
+        <mark key="[" line="86" column="54" />
+        <mark key="]" line="86" column="60" />
+        <mark key="^" line="86" column="60" />
+        <mark key="." line="86" column="60" />
       </file>
       <file name="$USER_HOME$/Sites/TheMoonUpAbove/Site/src/scss/modules/_cat-bar.scss" timestamp="1470402266337">
         <mark key="'" line="42" column="0" />
@@ -660,7 +659,6 @@
       <jump line="258" column="0" filename="$USER_HOME$/Sites/TheMoonUpAbove/Site/src/pages/Checkout.jsx" />
       <jump line="393" column="37" filename="$USER_HOME$/Sites/TheMoonUpAbove/Site/src/pages/Checkout.jsx" />
       <jump line="34" column="34" filename="$USER_HOME$/Sites/TheMoonUpAbove/Site/src/pages/Checkout.jsx" />
-      <jump line="81" column="0" filename="$USER_HOME$/Sites/TheMoonUpAbove/Site/src/pages/Checkout.jsx" />
       <jump line="139" column="4" filename="$USER_HOME$/Sites/TheMoonUpAbove/Site/src/pages/Checkout.jsx" />
       <jump line="25" column="0" filename="$USER_HOME$/Sites/TheMoonUpAbove/Site/src/pages/Checkout.jsx" />
       <jump line="0" column="0" filename="$USER_HOME$/Sites/TheMoonUpAbove/Site/src/pages/Checkout.jsx" />
@@ -670,55 +668,56 @@
       <jump line="23" column="19" filename="$USER_HOME$/Sites/TheMoonUpAbove/Site/src/components/Header.jsx" />
       <jump line="55" column="0" filename="$USER_HOME$/Sites/TheMoonUpAbove/Site/src/pages/Checkout.jsx" />
       <jump line="100" column="37" filename="$USER_HOME$/Sites/TheMoonUpAbove/Site/src/pages/Checkout.jsx" />
+      <jump line="81" column="36" filename="$USER_HOME$/Sites/TheMoonUpAbove/Site/src/pages/Checkout.jsx" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>let</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZwo=</text>
       </register>
       <register name="-" type="4">
-        <text>let</text>
+        <text>result</text>
       </register>
       <register name="/" type="4">
-        <text>moveCaret</text>
+        <text>spaces</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGBudW1iZXJPbGQgaXM6ICR7bnVtYmVyT2xkfWApOwo=</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKEFycmF5LmZyb20oYXJndW1lbnRzWzBdKSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nKCduZXcgc3RyaW5nIGlzICcpCg==</text>
+        <text encoding="base64">ICAgICAgICBjb25zdCBzcGFjZUxlbmd0aCA9IDA7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICBjb24K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBoLm1vdmVDYXJldCh0aGlzLmNhcmROdW1iZXIsIGRpZmZJbmRleCk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHNwYWNlcyk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgIC8vIGlmIChkaWZmSW5kZXggJSA0ID09PSAwKSB7CiAgICAvLyAgIGRpZmZJbmRleCArPSAxOwogICAgLy8gfQoK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgc3BhY2VzUG9zaXRpb24K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgaW5wdXQuc2V0U2VsZWN0aW9uUmFuZ2UoZGlzdGFuY2UsIGRpc3RhbmNlKTsK</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
       </register>
     </registers>
     <search>
-      <last-search>moveCaret</last-search>
+      <last-search>spaces</last-search>
       <last-offset />
-      <last-pattern>moveCaret</last-pattern>
+      <last-pattern>spaces</last-pattern>
       <last-replace>'</last-replace>
       <last-substitute>&quot;</last-substitute>
       <last-dir>1</last-dir>
@@ -726,7 +725,6 @@
     </search>
     <history>
       <history-search>
-        <entry>transition</entry>
         <entry>copy</entry>
         <entry>photos</entry>
         <entry>fadeUp</entry>
@@ -746,6 +744,7 @@
         <entry>diffIndex</entry>
         <entry>processCard</entry>
         <entry>moveCaret</entry>
+        <entry>spaces</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL3Zhci9sZXQvZw==</entry>
